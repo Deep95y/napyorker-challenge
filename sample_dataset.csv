@@ -1,0 +1,1000 @@
+﻿name,stars_count,forks_count,watchers,pull_requests,primary_language,languages_used,commit_count,created_at,licence
+freeCodeCamp,359805,30814,8448,31867,TypeScript,"['TypeScript', 'JavaScript', 'CSS', 'Shell', 'Dockerfile', 'EJS', 'HTML', 'Less']",32231,2014-12-24T17:49:19Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+996.ICU,264811,21470,4298,1949,,,3189,2019-03-26T07:31:14Z,Other
+free-programming-books,262380,53302,9544,8235,,,8286,2013-10-11T06:50:37Z,Other
+coding-interview-university,244927,65038,8539,867,,,2314,2016-06-06T02:34:12Z,Creative Commons Attribution Share Alike 4.0 International
+awesome,235223,24791,7446,1859,,,1074,2014-07-11T13:42:37Z,Creative Commons Zero v1.0 Universal
+developer-roadmap,225982,32534,6885,2082,Astro,"['Astro', 'JavaScript', 'TypeScript', 'CSS']",2821,2017-03-15T13:45:52Z,Other
+public-apis,225267,25654,3772,2897,Python,"['Python', 'Shell']",4527,2016-03-20T23:49:42Z,MIT License
+system-design-primer,208977,37414,6466,455,Python,"['Python', 'Shell']",328,2017-02-26T16:15:28Z,Other
+vue,201896,33255,6051,2365,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Shell']",3545,2013-07-29T03:24:51Z,MIT License
+react,200838,41721,6644,13061,JavaScript,"['JavaScript', 'HTML', 'CSS', 'C++', 'TypeScript', 'CoffeeScript', 'C', 'Shell', 'Python', 'Makefile']",15461,2013-05-24T16:15:54Z,MIT License
+build-your-own-x,184759,17824,4440,282,,,481,2018-05-09T12:03:18Z,
+tensorflow,170578,87667,7788,22466,C++,"['C++', 'Python', 'MLIR', 'Starlark', 'HTML', 'Go', 'C', 'Java', 'Jupyter Notebook', 'Shell']",141966,2015-11-07T01:19:20Z,Apache License 2.0
+You-Dont-Know-JS,163638,31917,5968,867,,,1879,2013-11-16T02:37:24Z,Other
+bootstrap,161399,77750,6845,14246,JavaScript,"['JavaScript', 'HTML', 'SCSS', 'CSS', 'PowerShell']",22197,2011-07-29T21:19:00Z,MIT License
+CS-Notes,160783,49710,5415,597,,,3776,2018-02-13T14:56:24Z,
+javascript-algorithms,159248,26396,4352,635,JavaScript,"['JavaScript', 'Shell']",1076,2018-03-24T07:47:04Z,MIT License
+ohmyzsh,154480,24897,2660,6726,Shell,"['Shell', 'Python', 'Makefile']",6776,2009-08-28T18:15:37Z,MIT License
+awesome-python,154091,22463,5753,1746,Python,"['Python', 'Makefile']",1632,2014-06-27T21:00:06Z,Other
+Python,151276,38747,5945,6749,Python,['Python'],2724,2016-07-16T09:44:01Z,MIT License
+flutter,148510,24317,3557,40805,Dart,"['Dart', 'C++', 'Objective-C', 'Java', 'CMake', 'Shell', 'Ruby', 'HTML', 'Swift', 'Batchfile']",32962,2015-03-06T22:54:58Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+linux,144966,46406,8129,761,C,"['C', 'Assembly', 'Shell', 'Makefile', 'Python', 'Perl', 'Rust', 'C++', 'Roff', 'SmPL']",1154596,2011-09-04T22:48:12Z,Other
+gitignore,143187,81642,3323,4152,,,3528,2010-11-08T20:17:14Z,Creative Commons Zero v1.0 Universal
+vscode,141614,24514,3180,18413,TypeScript,"['TypeScript', 'JavaScript', 'CSS', 'HTML', 'Rust', 'Inno Setup', 'Shell', 'Scilab', 'Batchfile', 'PowerShell']",104743,2015-09-03T20:23:38Z,MIT License
+javascript,131055,24869,3823,1400,JavaScript,['JavaScript'],1943,2012-11-01T23:13:50Z,MIT License
+computer-science,131032,17247,5414,387,,,989,2014-05-04T00:18:39Z,MIT License
+JavaGuide,129989,43120,4578,1001,Java,['Java'],4491,2018-05-07T13:27:00Z,
+Python-100-Days,129654,47914,6205,310,Python,"['Python', 'HTML', 'Jupyter Notebook', 'Java', 'CSS', 'JavaScript']",370,2018-03-01T16:05:52Z,
+the-art-of-command-line,126140,12804,2795,553,,,1208,2015-05-20T15:11:03Z,
+youtube-dl,116734,8536,2203,4793,Python,"['Python', 'Shell', 'Makefile', 'ActionScript', 'Batchfile']",18646,2010-10-31T14:35:07Z,The Unlicense
+awesome-selfhosted,115927,6859,1974,2600,JavaScript,"['JavaScript', 'Makefile', 'Python', 'Ruby']",5790,2015-06-01T02:33:17Z,Other
+fucking-algorithm,113340,21976,2432,417,Markdown,['Markdown'],355,2020-02-19T09:01:23Z,
+go,107717,15822,3482,2790,Go,"['Go', 'Assembly', 'HTML', 'C', 'Shell', 'Perl', 'JavaScript', 'Python', 'Batchfile', 'Dockerfile']",55233,2014-08-19T04:33:40Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+react-native,107174,22824,3654,11720,JavaScript,"['JavaScript', 'Java', 'C++', 'Objective-C', 'Objective-C++', 'Starlark', 'Ruby', 'Kotlin', 'Shell', 'TypeScript']",26485,2015-01-09T18:10:16Z,MIT License
+30-seconds-of-code,106958,11091,2605,1482,JavaScript,['JavaScript'],5491,2017-11-29T17:35:03Z,Creative Commons Attribution 4.0 International
+electron,105529,14281,2922,18453,C++,"['C++', 'TypeScript', 'Objective-C++', 'JavaScript', 'Python', 'Objective-C', 'HTML', 'Shell', 'C', 'CSS']",27006,2013-04-12T01:47:36Z,MIT License
+d3,104167,23263,3761,1114,JavaScript,['JavaScript'],4351,2010-09-27T17:22:42Z,ISC License
+next.js,99485,22057,1331,14080,JavaScript,"['JavaScript', 'TypeScript', 'Rust', 'CSS', 'SCSS', 'Shell', 'Dockerfile', 'Batchfile', 'Sass']",13765,2016-10-05T23:32:51Z,MIT License
+free-programming-books-zh_CN,98872,27028,5923,449,,,922,2013-11-04T01:59:19Z,GNU General Public License v3.0
+create-react-app,98606,25875,1943,4109,JavaScript,"['JavaScript', 'Shell', 'CSS', 'HTML', 'AppleScript', 'TypeScript', 'SCSS', 'Sass']",2800,2016-07-17T14:55:11Z,MIT License
+axios,98336,10126,1212,1289,JavaScript,"['JavaScript', 'TypeScript', 'HTML', 'Handlebars']",1400,2014-08-18T22:30:27Z,MIT License
+kubernetes,95277,34927,3260,72764,Go,"['Go', 'Shell', 'PowerShell', 'Makefile', 'Dockerfile', 'Python', 'C', 'sed', 'Batchfile', 'HTML']",113248,2014-06-06T22:56:04Z,Apache License 2.0
+awesome-go,94975,10652,2733,4122,Go,['Go'],4382,2014-07-06T13:42:15Z,MIT License
+node,92840,25096,2904,29305,JavaScript,"['JavaScript', 'C++', 'Python', 'C', 'HTML', 'Makefile', 'Shell', 'Batchfile', 'Emacs Lisp', 'Perl']",38013,2014-11-26T19:57:11Z,Other
+three.js,88351,33734,2550,13606,JavaScript,"['JavaScript', 'HTML', 'Roff', 'CSS']",40983,2010-03-23T18:58:01Z,MIT License
+TypeScript,87776,11373,2141,15541,TypeScript,"['TypeScript', 'JavaScript', 'Dockerfile', 'Shell']",34270,2014-06-17T15:28:39Z,Apache License 2.0
+the-book-of-secret-knowledge,87475,6829,2009,225,,,1066,2018-06-23T10:43:14Z,MIT License
+deno,87388,4714,1498,9484,Rust,"['Rust', 'JavaScript', 'TypeScript', 'Lua', 'C', 'Dockerfile']",8536,2018-05-15T01:34:26Z,MIT License
+terminal,87143,7645,1306,3426,C++,"['C++', 'C#', 'C', 'PowerShell', 'Batchfile', 'HLSL', 'Python', 'Roff', 'JavaScript', 'HTML']",3429,2017-08-11T18:38:22Z,MIT License
+project-based-learning,87079,12344,2085,306,,,567,2017-04-12T05:07:46Z,MIT License
+angular,85963,22872,3042,23002,TypeScript,"['TypeScript', 'JavaScript', 'Starlark', 'HTML', 'CSS', 'SCSS', 'Shell', 'NASL', 'jq', 'Less']",26098,2014-09-18T16:12:01Z,MIT License
+nodebestpractices,85298,8827,1824,898,JavaScript,"['JavaScript', 'Dockerfile', 'CSS', 'HTML', 'TypeScript', 'Shell']",3756,2017-09-15T08:33:19Z,Creative Commons Attribution Share Alike 4.0 International
+tech-interview-handbook,85165,11164,1865,489,TypeScript,"['TypeScript', 'JavaScript', 'Python', 'HTML', 'CSS', 'Shell']",1235,2016-07-05T05:00:48Z,MIT License
+PowerToys,84945,4902,1079,4196,C#,"['C#', 'C++', 'C', 'PowerShell', 'HTML', 'HLSL', 'Batchfile', 'JavaScript']",6403,2019-05-01T17:44:02Z,MIT License
+material-ui,84079,28929,1355,18215,JavaScript,"['JavaScript', 'TypeScript', 'HTML']",21181,2014-08-18T19:11:54Z,MIT License
+ant-design,83881,37875,191,13158,TypeScript,"['TypeScript', 'JavaScript', 'CSS', 'Shell', 'HTML']",24377,2015-04-24T15:37:24Z,MIT License
+puppeteer,81581,8779,1212,3645,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Dockerfile', 'Shell']",3157,2017-05-09T22:16:13Z,Apache License 2.0
+vue-element-admin,80368,29155,2231,564,Vue,"['Vue', 'JavaScript', 'SCSS', 'CSS', 'Handlebars', 'HTML']",1019,2017-04-17T03:35:49Z,MIT License
+java-design-patterns,79195,24507,3828,1594,Java,"['Java', 'HTML', 'CSS']",3425,2014-08-09T16:45:18Z,Other
+transformers,78476,17621,882,10426,Python,"['Python', 'Cuda', 'Shell', 'Dockerfile', 'C++', 'C', 'Cython', 'Makefile', 'Jsonnet']",11827,2018-10-29T13:56:00Z,Apache License 2.0
+clean-code-javascript,78115,10525,1813,264,JavaScript,['JavaScript'],544,2016-11-25T22:25:41Z,MIT License
+animate.css,76855,16371,2272,781,CSS,"['CSS', 'HTML', 'JavaScript', 'Shell']",662,2011-10-12T10:07:38Z,Other
+rust,76791,10249,1482,59982,Rust,"['Rust', 'JavaScript', 'Python', 'HTML', 'Makefile', 'Fluent', 'Shell', 'TypeScript', 'C++', 'Dockerfile']",215425,2010-06-16T20:39:03Z,Other
+storybook,76186,8064,952,9602,TypeScript,"['TypeScript', 'JavaScript', 'Vue', 'Svelte', 'HTML', 'CSS', 'EJS', 'Pug', 'Handlebars', 'Shell']",47366,2016-03-18T04:23:44Z,MIT License
+scrcpy,75617,7973,1106,334,C,"['C', 'Java', 'Roff', 'Meson', 'Shell', 'Makefile', 'AIDL', 'VBScript', 'Batchfile']",1866,2017-11-21T18:00:27Z,Apache License 2.0
+thefuck,75287,3308,836,656,Python,"['Python', 'Dockerfile', 'Shell']",1636,2015-04-08T15:08:04Z,MIT License
+models,75034,46137,2796,3705,Python,"['Python', 'Jupyter Notebook', 'C++', 'Shell', 'Starlark', 'Dockerfile']",8746,2016-02-05T01:15:20Z,Other
+LeetCodeAnimation,72188,13794,2607,74,Java,"['Java', 'Python', 'C++']",246,2018-12-06T08:01:22Z,
+laravel,72093,23309,4522,4418,PHP,"['PHP', 'Blade', 'Shell', 'JavaScript']",6817,2011-06-08T03:06:08Z,
+realworld,71818,6701,1558,464,TypeScript,"['TypeScript', 'CSS', 'HTML', 'JavaScript', 'Shell']",745,2016-02-26T20:49:53Z,MIT License
+Font-Awesome,70761,12286,1385,660,JavaScript,"['JavaScript', 'SCSS', 'CSS', 'Less']",11,2012-02-17T14:19:43Z,Other
+papers-we-love,68553,5054,3117,492,Shell,['Shell'],854,2013-12-15T14:31:41Z,
+django,68303,28486,2267,16442,Python,"['Python', 'HTML', 'JavaScript', 'CSS', 'Shell', 'Smarty', 'Makefile', 'Procfile']",31423,2012-04-28T02:47:18Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+FiraCode,68292,2946,707,175,Clojure,"['Clojure', 'Shell', 'Python', 'HTML', 'CSS', 'PureBasic', 'Dockerfile', 'Makefile']",571,2014-11-11T19:32:38Z,SIL Open Font License 1.1
+advanced-java,68233,17999,2608,114,Java,"['Java', 'JavaScript']",726,2018-10-06T11:38:30Z,Creative Commons Attribution Share Alike 4.0 International
+bitcoin,67829,33644,3940,18632,C++,"['C++', 'Python', 'C', 'M4', 'Shell', 'Makefile', 'Sage', 'CMake', 'Assembly', 'Scheme']",36411,2010-12-19T15:16:43Z,MIT License
+awesome-vue,67474,9228,2153,3735,,,4994,2015-10-20T00:16:14Z,MIT License
+every-programmer-should-know,67275,6410,1988,160,,,282,2017-08-24T13:18:26Z,Creative Commons Attribution 4.0 International
+opencv,66028,53700,2634,13620,C++,"['C++', 'C', 'Python', 'CMake', 'Java', 'Objective-C++', 'Cuda', 'Swift', 'JavaScript', 'Objective-C']",32627,2012-07-19T09:40:17Z,Apache License 2.0
+gin,65937,7185,1373,1483,Go,"['Go', 'Makefile']",1660,2014-06-16T23:57:25Z,MIT License
+free-for-dev,65535,7128,1556,2623,HTML,['HTML'],4802,2015-03-18T21:06:26Z,
+json-server,65148,6439,1019,348,JavaScript,"['JavaScript', 'HTML', 'CSS', 'Shell']",855,2013-11-27T13:21:13Z,MIT License
+spring-boot,65140,37831,3386,5529,Java,"['Java', 'Kotlin', 'HTML', 'Shell', 'JavaScript', 'Groovy', 'Ruby', 'Smarty', 'Dockerfile', 'Batchfile']",41135,2012-10-19T15:02:57Z,Apache License 2.0
+moby,64960,18464,2970,22934,Go,"['Go', 'Shell', 'Dockerfile', 'PowerShell', 'Makefile', 'Python', 'C', 'HCL', 'Assembly']",45444,2013-01-18T18:10:57Z,Apache License 2.0
+svelte,64936,3175,873,3230,TypeScript,"['TypeScript', 'Svelte', 'JavaScript']",6949,2016-11-20T18:13:05Z,MIT License
+hugo,64849,6993,1066,4213,Go,"['Go', 'HTML', 'Shell', 'Dockerfile']",7388,2013-07-04T15:26:26Z,Apache License 2.0
+Web-Dev-For-Beginners,64665,10079,2512,733,JavaScript,"['JavaScript', 'HTML', 'CSS', 'Vue']",1575,2020-11-10T02:44:00Z,MIT License
+tailwindcss,64323,3278,580,2058,HTML,"['HTML', 'JavaScript', 'CSS', 'Rust', 'TypeScript', 'Shell', 'Svelte', 'SCSS']",4994,2017-10-06T14:59:14Z,MIT License
+nvm,64100,6798,960,998,Shell,"['Shell', 'Makefile', 'Dockerfile', 'JavaScript']",2114,2010-04-15T17:47:47Z,MIT License
+Front-End-Checklist,63819,6137,1478,292,,,697,2017-10-16T10:12:36Z,Creative Commons Zero v1.0 Universal
+HelloGitHub,63713,8464,2714,31,Python,['Python'],145,2016-05-04T06:24:11Z,
+frp,63656,11038,1559,622,Go,"['Go', 'Vue', 'JavaScript', 'Shell', 'HTML', 'Makefile', 'Less']",1034,2015-12-21T15:24:59Z,Apache License 2.0
+mall,63170,26142,2206,104,Java,"['Java', 'Shell', 'Dockerfile']",917,2018-04-04T01:11:44Z,Apache License 2.0
+reveal.js,62901,16433,1692,997,JavaScript,"['JavaScript', 'HTML', 'SCSS', 'CSS']",2950,2011-06-07T18:54:22Z,MIT License
+xxl-job,23398,9779,951,411,Java,"['Java', 'Dockerfile']",1717,2015-11-28T12:59:34Z,GNU General Public License v3.0
+Vundle.vim,23397,2568,711,241,Vim Script,"['Vim Script', 'Erlang']",629,2010-10-17T23:17:53Z,MIT License
+poetry,23373,1883,184,2218,Python,"['Python', 'HTML']",2719,2018-02-28T15:23:47Z,MIT License
+detectron2,23370,6375,366,556,Python,"['Python', 'Cuda', 'C++', 'Shell', 'Dockerfile', 'CMake']",1422,2019-09-05T21:30:20Z,Apache License 2.0
+hammer.js,23362,2662,536,249,JavaScript,"['JavaScript', 'HTML', 'CSS']",1199,2012-03-02T12:58:28Z,MIT License
+BaseRecyclerViewAdapterHelper,23353,4990,573,280,Java,"['Java', 'Kotlin']",1235,2016-04-10T07:40:11Z,MIT License
+Clone-Wars,23351,1992,464,125,,,318,2020-12-02T11:10:16Z,GNU Affero General Public License v3.0
+swagger-ui,23287,8578,658,3202,JavaScript,"['JavaScript', 'SCSS', 'HTML', 'Shell', 'Dockerfile', 'CSS']",5505,2011-07-15T22:56:39Z,Apache License 2.0
+fastai,23280,7337,612,2155,Jupyter Notebook,"['Jupyter Notebook', 'Python', 'CSS']",2614,2017-09-09T17:43:36Z,Apache License 2.0
+components,23270,6382,937,12602,TypeScript,"['TypeScript', 'SCSS', 'HTML', 'Starlark', 'JavaScript', 'CSS', 'Shell']",10501,2016-01-04T18:50:02Z,MIT License
+devtools,23257,4031,521,408,TypeScript,"['TypeScript', 'Vue', 'JavaScript', 'HTML', 'Stylus', 'CSS']",2079,2014-09-29T03:52:07Z,MIT License
+react-native-elements,23234,4498,377,1597,TypeScript,"['TypeScript', 'CSS', 'JavaScript', 'HTML', 'Handlebars', 'Shell']",2382,2016-09-08T14:21:41Z,MIT License
+seata,23225,8274,862,2204,Java,"['Java', 'ANTLR', 'TypeScript', 'Shell', 'SCSS', 'Kotlin', 'Python', 'Batchfile', 'Less', 'Mustache']",1596,2018-12-28T08:37:22Z,Apache License 2.0
+flutter-go,23218,3761,660,188,Dart,"['Dart', 'JavaScript', 'Ruby', 'Shell', 'Objective-C', 'Dockerfile', 'Swift', 'Kotlin']",754,2019-01-08T09:03:40Z,Other
+Signal-Android,23215,5646,905,2651,Java,"['Java', 'Kotlin', 'Handlebars', 'Python', 'Dockerfile', 'CSS', 'C++', 'Makefile', 'JavaScript', 'Shell']",11494,2011-12-15T20:01:12Z,GNU General Public License v3.0
+emscripten,23211,2981,602,10389,C,"['C', 'C++', 'JavaScript', 'Python', 'HTML', 'CMake', 'Assembly', 'Batchfile', 'NASL', 'Shell']",25085,2011-02-12T05:23:30Z,Other
+Depix,23157,2838,399,28,Python,['Python'],54,2020-12-06T12:39:08Z,Other
+plyr,23146,2745,418,529,JavaScript,"['JavaScript', 'SCSS']",2269,2015-02-14T11:33:07Z,MIT License
+Hystrix,23139,4667,1650,805,Java,"['Java', 'Clojure', 'CSS', 'Groovy']",2109,2012-11-19T20:14:46Z,
+nsq,23127,2819,845,802,Go,"['Go', 'JavaScript', 'Handlebars', 'Python', 'Shell', 'SCSS', 'CSS', 'HTML', 'Makefile', 'Dockerfile']",2256,2012-05-12T14:37:08Z,MIT License
+gitlabhq,23126,5724,989,3621,Ruby,"['Ruby', 'JavaScript', 'Vue', 'PLpgSQL', 'Haml', 'HTML', 'SCSS', 'Go', 'Shell', 'Makefile']",109744,2011-10-02T16:25:27Z,Other
+pytorch-image-models,23105,3830,292,300,Python,"['Python', 'Shell']",1685,2019-02-02T05:51:12Z,Apache License 2.0
+mongo,23104,5413,1227,1501,C++,"['C++', 'JavaScript', 'Python', 'Shell', 'TLA', 'Yacc', 'C', 'Rich Text Format', 'Ruby', 'Smarty']",69767,2009-01-15T16:15:18Z,Other
+RxSwift,23092,4043,540,1264,Swift,"['Swift', 'Objective-C', 'Shell', 'Ruby']",3635,2015-04-07T21:25:17Z,MIT License
+docz,23081,1493,182,485,TypeScript,"['TypeScript', 'JavaScript', 'AppleScript', 'HTML', 'CSS']",1609,2018-03-17T04:24:10Z,MIT License
+feather,23044,1171,264,574,JavaScript,"['JavaScript', 'Shell']",639,2014-05-28T19:49:55Z,MIT License
+CodeHub,23041,652,6670,24,C#,"['C#', 'CSS', 'HTML']",593,2013-07-23T22:19:57Z,
+mdb-ui-kit,22981,3515,786,334,SCSS,"['SCSS', 'JavaScript', 'HTML']",1463,2014-08-18T11:54:00Z,MIT License
+devise,22952,5504,485,1389,Ruby,"['Ruby', 'HTML']",3784,2009-09-16T12:15:12Z,MIT License
+streisand,22929,2034,634,649,Shell,"['Shell', 'Python', 'HTML']",1424,2014-03-23T21:56:19Z,Other
+RSSHub,22912,4730,330,7439,JavaScript,"['JavaScript', 'Dockerfile', 'Shell', 'HTML', 'Procfile']",8560,2018-04-02T14:43:21Z,MIT License
+C-Plus-Plus,22891,6093,473,2157,C++,"['C++', 'CMake', 'Dockerfile']",1589,2016-07-16T10:19:45Z,MIT License
+awesome-swift,22873,3030,915,1652,Ruby,['Ruby'],3875,2014-07-10T14:04:09Z,Creative Commons Zero v1.0 Universal
+rollup,22862,1273,259,1846,JavaScript,"['JavaScript', 'TypeScript', 'HTML', 'Shell', 'CSS']",5120,2015-05-14T22:26:28Z,Other
+ShareX,22839,2778,527,1017,C#,"['C#', 'Inno Setup', 'CSS', 'HTML']",7600,2013-10-08T23:32:10Z,GNU General Public License v3.0
+pure,22818,2531,745,501,JavaScript,"['JavaScript', 'HTML', 'CSS']",842,2013-04-22T16:16:39Z,Other
+alpine,22818,1004,213,702,HTML,"['HTML', 'JavaScript']",1863,2019-11-28T13:51:55Z,MIT License
+fe-interview,22783,3093,666,17,JavaScript,"['JavaScript', 'HTML', 'CSS']",1558,2019-04-17T03:05:58Z,MIT License
+ItChat,22768,5309,893,106,Python,['Python'],188,2016-01-19T07:49:48Z,MIT License
+spacemacs,22762,4946,504,7505,Emacs Lisp,"['Emacs Lisp', 'Python', 'Shell', 'Makefile', 'YASnippet']",12528,2012-12-17T21:34:03Z,GNU General Public License v3.0
+Complete-Python-3-Bootcamp,22755,76545,2636,194,Jupyter Notebook,"['Jupyter Notebook', 'Python']",66,2018-02-12T19:30:10Z,
+lapce,22742,665,142,841,Rust,"['Rust', 'Scheme', 'Makefile', 'Shell', 'PowerShell']",2543,2018-02-06T08:41:06Z,Apache License 2.0
+quasar,22730,3065,473,4318,JavaScript,"['JavaScript', 'CSS', 'Vue', 'Sass', 'TypeScript', 'HTML', 'Shell', 'SCSS', 'Stylus']",12611,2015-10-05T15:45:36Z,MIT License
+professional-programming,22710,1989,636,43,Python,"['Python', 'HTML']",340,2015-11-07T05:07:52Z,MIT License
+mmdetection,22710,8257,364,2681,Python,"['Python', 'Shell', 'Dockerfile']",2173,2018-08-22T07:06:06Z,Apache License 2.0
+engineering-blogs,22708,789,920,1006,Ruby,['Ruby'],1717,2015-06-13T18:25:17Z,
+CheatSheetSeries,22703,3292,533,719,Python,"['Python', 'Shell', 'HTML', 'Java', 'Makefile']",1530,2018-12-21T14:26:43Z,Other
+JavaScript30,22688,30113,663,568,HTML,"['HTML', 'CSS', 'JavaScript']",387,2016-12-07T19:15:31Z,
+ramda,22680,1456,273,1726,JavaScript,"['JavaScript', 'Shell', 'Makefile', 'TypeScript']",2981,2013-06-21T20:32:35Z,MIT License
+pkg,22661,963,272,269,JavaScript,"['JavaScript', 'TypeScript', 'CSS', 'HTML', 'Pug', 'CoffeeScript']",1124,2016-08-08T19:41:59Z,MIT License
+weekly,22598,2715,1576,138,JavaScript,['JavaScript'],940,2017-03-20T06:10:04Z,
+awesome-sysadmin,22597,3932,1320,488,,,515,2014-02-09T22:39:20Z,Other
+iTerm2-Color-Schemes,22597,6382,344,303,Shell,"['Shell', 'Python', 'Ruby', 'Swift']",679,2011-04-01T04:01:46Z,Other
+nushell,22591,1114,161,4287,Rust,"['Rust', 'Nu', 'Python', 'Shell', 'Dockerfile', 'PowerShell', 'Batchfile']",6572,2019-05-10T16:59:42Z,MIT License
+Wox,22584,2367,533,466,C#,"['C#', 'Python', 'PowerShell']",2753,2013-12-19T15:49:32Z,MIT License
+Mask_RCNN,22580,11214,597,274,Python,['Python'],203,2017-10-19T20:28:34Z,Other
+react-redux,22580,3315,425,726,TypeScript,"['TypeScript', 'JavaScript', 'CSS']",1136,2015-07-11T17:32:01Z,MIT License
+docsify,22569,5396,268,754,JavaScript,"['JavaScript', 'Stylus', 'HTML', 'Shell', 'Dockerfile']",1647,2016-11-20T07:55:43Z,MIT License
+faas,22560,1825,492,908,Go,"['Go', 'HTML', 'JavaScript', 'Dockerfile', 'Makefile']",2105,2016-12-22T12:51:39Z,MIT License
+Web,22555,5822,663,75,,,815,2017-01-03T11:44:33Z,Other
+NewPipe,22553,2571,566,1901,Java,"['Java', 'Kotlin', 'HTML']",10514,2015-09-03T23:39:26Z,GNU General Public License v3.0
+linux-command,22543,4800,526,322,Markdown,"['Markdown', 'HTML', 'JavaScript', 'Stylus', 'Dockerfile']",1056,2016-11-12T15:44:26Z,MIT License
+architecture-components-samples,22535,8295,898,367,Kotlin,"['Kotlin', 'Java', 'Shell', 'RenderScript']",634,2017-05-09T21:09:14Z,Apache License 2.0
+dnSpy,22521,4431,948,83,C#,"['C#', 'Visual Basic .NET', 'PowerShell', 'Batchfile']",3932,2015-07-01T16:05:10Z,
+PhotoSwipe,22518,3317,551,220,JavaScript,"['JavaScript', 'CSS', 'TypeScript']",656,2011-04-07T05:46:29Z,MIT License
+numpy,22507,7679,571,11851,Python,"['Python', 'C', 'C++', 'Cython', 'Meson', 'Shell', 'Fortran', 'sed', 'Dockerfile', 'Smarty']",31309,2010-09-13T23:02:39Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+ngrok,22505,4146,669,75,Go,"['Go', 'JavaScript', 'HTML', 'Makefile']",328,2013-03-20T09:37:43Z,Other
+xstate,22495,1058,184,1526,TypeScript,"['TypeScript', 'JavaScript', 'Vue', 'Svelte']",5180,2015-09-14T15:04:15Z,MIT License
+aos,22494,2366,311,136,JavaScript,"['JavaScript', 'CSS']",259,2015-07-09T17:49:00Z,MIT License
+redash,22483,3894,590,3623,Python,"['Python', 'JavaScript', 'TypeScript', 'Less', 'HTML', 'Shell', 'Dockerfile', 'CSS', 'Makefile', 'Mako']",7298,2013-10-28T13:19:39Z,"BSD 2-Clause ""Simplified"" License"
+coder2gwy,22463,3342,356,4,,,58,2020-12-30T14:40:50Z,
+go,22431,6142,1656,138,,,370,2013-08-14T08:33:55Z,The Unlicense
+vapor,22427,1387,530,1345,Swift,"['Swift', 'C', 'Shell', 'HTML']",5655,2016-01-18T22:37:52Z,MIT License
+redux-saga,22388,2028,256,859,JavaScript,"['JavaScript', 'TypeScript', 'SCSS', 'CSS']",1931,2015-11-29T16:58:12Z,MIT License
+ember.js,22378,4286,883,10046,JavaScript,"['JavaScript', 'TypeScript', 'HTML', 'Handlebars']",21950,2011-05-25T23:39:40Z,MIT License
+sails,22376,1968,657,925,JavaScript,"['JavaScript', 'EJS']",7160,2012-03-18T19:46:15Z,MIT License
+mostly-adequate-guide,22353,1828,564,366,JavaScript,"['JavaScript', 'HTML', 'Perl', 'CSS']",853,2015-05-06T01:44:15Z,Other
+octotree,22335,1872,382,385,JavaScript,"['JavaScript', 'CSS', 'Less', 'HTML']",718,2014-05-09T18:15:20Z,GNU Affero General Public License v3.0
+go-zero,22335,3196,292,1644,Go,"['Go', 'Smarty', 'ANTLR', 'Shell', 'Makefile', 'Dockerfile']",1758,2020-08-07T15:37:57Z,MIT License
+eShopOnContainers,22330,9610,1501,778,C#,"['C#', 'JavaScript', 'HTML', 'Dockerfile', 'TypeScript', 'CSS', 'SCSS', 'PowerShell', 'Mustache', 'Shell']",4097,2016-10-05T22:35:23Z,MIT License
+draft-js,22314,2679,335,1363,JavaScript,"['JavaScript', 'CSS']",1201,2016-02-19T20:18:26Z,MIT License
+guzzle,22310,2360,458,1306,PHP,"['PHP', 'JavaScript', 'Makefile', 'Dockerfile']",3617,2011-02-28T02:44:05Z,MIT License
+linkedin-skill-assessments-quizzes,22279,12021,334,4565,Python,['Python'],5744,2019-07-13T19:52:56Z,GNU Affero General Public License v3.0
+blog,22272,2408,5154,6,,,94,2014-04-25T09:44:42Z,
+streamlit,22256,1992,286,2935,Python,"['Python', 'TypeScript', 'JavaScript', 'CSS', 'Makefile', 'SCSS', 'Shell', 'Dockerfile', 'HTML', 'Batchfile']",5212,2019-08-24T00:14:52Z,Apache License 2.0
+hub,22255,2347,583,813,Go,"['Go', 'Gherkin', 'Shell', 'Ruby', 'Makefile', 'Batchfile', 'Vim Script', 'HTML', 'Dockerfile']",3329,2009-12-05T22:15:25Z,MIT License
+tools,22235,651,194,2775,Rust,"['Rust', 'JavaScript', 'TypeScript', 'Astro', 'SCSS', 'CSS', 'Shell', 'Dockerfile', 'PowerShell']",3984,2020-02-20T05:57:33Z,MIT License
+hosts,22229,1909,564,581,Python,"['Python', 'Batchfile', 'Shell', 'Nix', 'Dockerfile']",3274,2012-04-12T20:22:50Z,MIT License
+servo,22211,2665,503,17471,,,44958,2012-02-08T19:07:25Z,Mozilla Public License 2.0
+sweetalert,22200,2900,461,286,TypeScript,"['TypeScript', 'Stylus', 'JavaScript', 'CSS', 'Handlebars']",363,2014-09-30T11:12:48Z,MIT License
+applied-ml,22190,3137,895,211,,,443,2020-07-04T18:57:47Z,MIT License
+apollo,22168,8988,1117,10909,C++,"['C++', 'Python', 'Starlark', 'Shell', 'JavaScript', 'Cuda', 'C', 'SCSS', 'Smarty', 'HTML']",18827,2017-07-04T19:03:31Z,Apache License 2.0
+taichi,22142,2152,401,4918,C++,"['C++', 'Python', 'C', 'CMake', 'Cuda', 'Objective-C++', 'Shell', 'GLSL', 'Objective-C', 'PowerShell']",10081,2016-11-24T10:00:05Z,Apache License 2.0
+glances,22136,1353,494,584,Python,"['Python', 'Vue', 'JavaScript', 'Makefile', 'Dockerfile', 'SCSS', 'Batchfile', 'PowerShell', 'Shell', 'Smarty']",4568,2011-12-04T08:49:15Z,Other
+coc.nvim,22127,902,128,1101,TypeScript,"['TypeScript', 'Vim Script', 'JavaScript', 'Python', 'Lua', 'Shell']",5586,2018-05-01T22:39:02Z,Other
+NativeScript,22094,1602,673,3441,TypeScript,"['TypeScript', 'Java', 'JavaScript', 'Objective-C', 'CSS', 'Shell', 'HTML', 'SCSS']",7166,2015-03-01T09:47:08Z,MIT License
+Python-programming-exercises,22093,6482,814,112,,,25,2012-06-14T07:56:46Z,
+eslint,22068,4024,318,6573,JavaScript,"['JavaScript', 'EJS', 'HTML', 'Shell']",8751,2013-06-29T23:59:48Z,MIT License
+algorithms,22048,4426,643,734,Python,['Python'],948,2016-11-17T22:32:08Z,MIT License
+k3s,22046,1947,279,2546,Go,"['Go', 'Shell', 'HCL', 'Ruby', 'Dockerfile', 'Makefile']",2597,2018-05-31T01:37:46Z,Apache License 2.0
+react-redux-links,22042,2478,740,102,,,401,2016-01-22T02:10:28Z,
+react-navigation,22040,4835,319,1639,TypeScript,"['TypeScript', 'JavaScript']",2581,2017-01-26T19:51:40Z,
+chosen,22006,4195,672,763,HTML,"['HTML', 'CoffeeScript', 'SCSS', 'CSS', 'Shell', 'JavaScript']",1287,2011-04-18T15:07:41Z,Other
+wepy,22003,3069,728,689,JavaScript,"['JavaScript', 'Shell', 'TypeScript', 'HTML']",2454,2016-11-14T08:06:56Z,Other
+clashX,21999,2802,290,49,Swift,"['Swift', 'Python', 'Objective-C', 'Go', 'Ruby', 'Shell']",789,2018-06-13T02:51:24Z,GNU Affero General Public License v3.0
+logrus,21998,2208,317,715,Go,"['Go', 'Shell']",1227,2013-10-16T19:08:55Z,MIT License
+Dress,21944,4295,590,948,Standard ML,"['Standard ML', 'Ruby', 'Python', 'Shell', 'Batchfile', 'C++', 'AutoHotkey']",1744,2018-02-11T03:49:29Z,Other
+vaultwarden,21940,1099,198,672,Rust,"['Rust', 'Handlebars', 'Dockerfile', 'Shell', 'Jinja', 'Python', 'Makefile']",2285,2018-02-17T22:40:20Z,GNU General Public License v3.0
+flow,21939,1867,408,2271,OCaml,"['OCaml', 'JavaScript', 'Shell', 'C', 'CSS', 'Makefile', 'C++', 'Dockerfile', 'Python', 'PowerShell']",15133,2014-10-28T17:17:45Z,MIT License
+polymer,21908,2028,870,1437,HTML,"['HTML', 'JavaScript', 'Shell', 'CSS']",6878,2012-08-23T20:56:30Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+flv.js,21887,3343,619,70,JavaScript,"['JavaScript', 'TypeScript']",431,2016-05-12T08:34:31Z,Apache License 2.0
+ML-From-Scratch,21880,4289,945,35,Python,['Python'],374,2017-02-05T12:11:23Z,MIT License
+mocha,21857,2996,397,2039,JavaScript,"['JavaScript', 'CSS', 'HTML', 'CoffeeScript', 'TypeScript']",3598,2011-03-07T18:44:25Z,MIT License
+cascadia-code,21814,724,247,94,Python,['Python'],196,2019-07-10T22:50:20Z,Other
+viper,21795,1819,250,623,Go,"['Go', 'Makefile']",556,2014-04-02T14:33:33Z,MIT License
+intro.js,21793,2624,463,1063,JavaScript,"['JavaScript', 'HTML', 'CSS', 'SCSS', 'Less', 'PHP', 'Shell']",1281,2013-03-10T15:12:45Z,Other
+gson,21772,4171,745,730,Java,['Java'],1776,2015-03-19T18:21:20Z,Apache License 2.0
+awesome-vscode,21762,1158,492,322,JavaScript,['JavaScript'],701,2016-02-07T23:02:45Z,Creative Commons Zero v1.0 Universal
+remix,21761,1720,216,2452,TypeScript,"['TypeScript', 'JavaScript', 'Arc', 'Shell']",3472,2020-10-26T19:57:28Z,MIT License
+ipfs,21753,1467,1006,153,,,403,2014-02-11T07:28:24Z,MIT License
+SwiftyJSON,21731,3366,627,414,Swift,"['Swift', 'C', 'Ruby']",745,2014-06-18T14:41:15Z,MIT License
+docker_practice,21728,5455,857,311,Go,['Go'],1201,2014-09-05T04:06:39Z,
+iosched,21723,6283,1449,170,Kotlin,"['Kotlin', 'HTML', 'Shell']",3139,2014-04-01T22:40:40Z,Apache License 2.0
+idiomatic.js,21695,3114,904,175,,,504,2011-05-25T17:48:59Z,Other
+react-starter-kit,21688,4131,543,824,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'Shell']",41,2014-04-16T13:08:18Z,MIT License
+windows95,21669,1264,451,58,TypeScript,"['TypeScript', 'JavaScript', 'Less', 'Dockerfile', 'Shell', 'HTML', 'PowerShell']",195,2018-08-23T05:04:38Z,Other
+discord.js,21668,3692,430,4825,JavaScript,"['JavaScript', 'TypeScript', 'Astro', 'CSS', 'Dockerfile', 'Lua', 'Shell']",7157,2015-08-10T13:36:26Z,Apache License 2.0
+algo,21659,6900,842,409,Python,"['Python', 'C', 'C++', 'Java', 'Scala', 'Rust', 'Go', 'PHP', 'JavaScript', 'C#']",1065,2018-09-24T05:33:46Z,Apache License 2.0
+whisper,21649,2024,204,81,Jupyter Notebook,"['Jupyter Notebook', 'Python']",72,2022-09-16T20:02:54Z,MIT License
+github1s,21595,771,108,273,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Shell', 'Dockerfile']",340,2019-06-16T09:55:25Z,MIT License
+croc,21593,939,244,167,Go,"['Go', 'Shell', 'Makefile', 'Dockerfile']",1710,2017-10-17T15:20:18Z,MIT License
+jax,21579,2027,297,8621,Python,"['Python', 'C++', 'Jupyter Notebook', 'Starlark', 'C', 'Shell', 'Dockerfile']",14502,2018-10-25T21:25:02Z,Apache License 2.0
+localForage,21579,1222,317,372,JavaScript,"['JavaScript', 'HTML', 'TypeScript']",1124,2013-10-31T00:10:06Z,Apache License 2.0
+jsoncrack.com,21546,1081,113,95,TypeScript,"['TypeScript', 'JavaScript', 'Dockerfile']",940,2022-01-30T15:25:18Z,GNU General Public License v3.0
+awesome-piracy,21520,1912,678,380,HTML,"['HTML', 'Shell']",585,2018-10-09T22:09:56Z,Creative Commons Zero v1.0 Universal
+pnpm,21517,638,119,2329,TypeScript,"['TypeScript', 'JavaScript', 'Shell', 'Batchfile']",8011,2016-01-28T07:40:43Z,MIT License
+spleeter,21479,2355,371,107,Python,"['Python', 'Dockerfile', 'TeX', 'Jupyter Notebook', 'Shell']",496,2019-09-26T15:40:46Z,MIT License
+rufus,21443,2185,537,183,C,"['C', 'Makefile', 'C#', 'Shell', 'Assembly', 'Batchfile', 'Python', 'M4', 'sed']",1958,2011-11-19T19:12:05Z,GNU General Public License v3.0
+react-bootstrap,21425,3466,432,3140,TypeScript,"['TypeScript', 'JavaScript', 'SCSS', 'Shell']",4426,2013-12-27T19:06:07Z,MIT License
+homebridge,21410,1948,654,373,TypeScript,"['TypeScript', 'JavaScript']",1450,2014-12-01T16:37:39Z,Apache License 2.0
+dragula,21405,1989,363,189,JavaScript,"['JavaScript', 'HTML', 'CSS', 'Stylus']",366,2015-04-13T21:35:38Z,MIT License
+bevy,21398,2111,259,3896,Rust,"['Rust', 'Shell', 'GLSL']",3664,2020-01-18T21:13:55Z,Apache License 2.0
+react-admin,21375,4724,267,4567,TypeScript,"['TypeScript', 'JavaScript', 'Makefile', 'HTML', 'Shell']",15890,2016-07-13T07:58:54Z,MIT License
+RedisDesktopManager,21370,3221,616,561,C++,"['C++', 'QML', 'Python', 'QMake', 'NSIS', 'JavaScript', 'C', 'Shell', 'CMake', 'Batchfile']",2162,2013-08-05T07:51:08Z,Other
+Telegram,21360,7183,1179,578,Java,"['Java', 'C++', 'C', 'Assembly', 'Perl', 'Go', 'CMake', 'NASL', 'Objective-C++', 'Python']",472,2013-10-25T14:08:10Z,GNU General Public License v2.0
+react-motion,21334,1197,285,228,JavaScript,"['JavaScript', 'HTML']",809,2015-06-11T07:38:23Z,MIT License
+copilot-docs,21331,2362,396,38,,,34,2021-10-23T16:07:04Z,Creative Commons Attribution 4.0 International
+docker-cheat-sheet,21325,4545,754,168,,,432,2014-08-05T20:04:20Z,Creative Commons Attribution 4.0 International
+server,21319,3359,562,20048,PHP,"['PHP', 'JavaScript', 'Vue', 'Gherkin', 'SCSS', 'Shell', 'HTML', 'TypeScript', 'CSS', 'Handlebars']",65896,2016-06-02T07:44:14Z,GNU Affero General Public License v3.0
+editor.js,21316,1663,220,913,TypeScript,"['TypeScript', 'HTML', 'CSS', 'JavaScript']",676,2015-11-28T20:56:35Z,Apache License 2.0
+lightning,21286,2714,228,8164,Python,"['Python', 'TypeScript', 'Dockerfile', 'Shell', 'Jsonnet', 'HTML', 'Makefile', 'CSS', 'JavaScript']",8591,2019-03-31T00:45:57Z,Apache License 2.0
+Awesome,21279,2175,707,353,,,523,2016-05-30T17:27:35Z,Creative Commons Zero v1.0 Universal
+scrollreveal,21278,2183,421,53,JavaScript,['JavaScript'],949,2014-01-16T17:37:20Z,
+envoy,21266,4089,607,16486,C++,"['C++', 'Starlark', 'Java', 'Python', 'NASL', 'Kotlin', 'Swift', 'Shell', 'Objective-C', 'C']",16829,2016-08-08T15:07:24Z,Apache License 2.0
+NLP-progress,21261,3546,1273,532,Python,"['Python', 'HTML', 'Ruby']",790,2018-06-22T17:43:55Z,MIT License
+mpv,21230,2520,480,3007,C,"['C', 'Lua', 'Python', 'Objective-C', 'Swift', 'Meson', 'Shell', 'JavaScript', 'Ruby']",49961,2012-10-13T08:08:44Z,Other
+Hero,21221,1706,369,149,Swift,"['Swift', 'Makefile', 'Ruby', 'Awk', 'Objective-C']",558,2016-11-24T18:49:37Z,MIT License
+howler.js,21211,2138,362,261,JavaScript,"['JavaScript', 'CSS', 'HTML']",887,2013-01-28T16:47:12Z,MIT License
+go-patterns,21178,1971,618,90,Go,['Go'],72,2015-12-14T22:05:06Z,Apache License 2.0
+openzeppelin-contracts,21169,10879,646,2326,JavaScript,"['JavaScript', 'Solidity', 'Ruby', 'Shell', 'Makefile']",3055,2016-08-01T20:54:54Z,MIT License
+elixir,21167,2993,682,7453,Elixir,"['Elixir', 'Erlang', 'Makefile', 'Batchfile', 'Shell', 'PowerShell']",18929,2011-01-09T08:43:57Z,Apache License 2.0
+vuepress,21145,4694,267,1214,JavaScript,"['JavaScript', 'TypeScript', 'Vue', 'Stylus', 'HTML', 'CSS', 'Dockerfile']",2132,2018-04-05T16:58:38Z,MIT License
+90DaysOfDevOps,21124,4833,510,221,Shell,"['Shell', 'Go', 'Python', 'HCL', 'Dockerfile', 'Jinja', 'PowerShell', 'Makefile', 'HTML']",1171,2021-12-26T13:55:18Z,Other
+autocomplete,21122,4829,77,1318,TypeScript,"['TypeScript', 'JavaScript', 'Dockerfile', 'Shell']",4049,2020-09-29T02:21:06Z,MIT License
+skywalking,21104,6037,854,4548,Java,"['Java', 'Shell', 'Lua', 'FreeMarker', 'ANTLR', 'Python', 'Batchfile', 'Makefile', 'Go', 'Dockerfile']",7465,2015-11-07T03:30:36Z,Apache License 2.0
+netron,21104,2375,275,141,JavaScript,"['JavaScript', 'Python', 'HTML', 'Shell', 'Makefile', 'CSS']",6398,2010-12-26T12:53:43Z,MIT License
+pug,21088,1975,552,850,JavaScript,"['JavaScript', 'Pug', 'HTML', 'TypeScript', 'CoffeeScript', 'Stylus', 'CSS']",2572,2010-06-23T01:05:42Z,
+passport,21072,1198,321,146,JavaScript,"['JavaScript', 'Makefile']",610,2011-10-08T22:38:32Z,MIT License
+DesignPatternsPHP,21064,4497,1221,369,PHP,"['PHP', 'Python', 'Makefile', 'Dockerfile']",1269,2011-08-22T05:24:31Z,MIT License
+react-three-fiber,21063,1194,197,562,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'Shell']",2306,2019-02-25T14:31:51Z,MIT License
+libgdx,21004,6374,1195,3467,Java,"['Java', 'C++', 'C', 'SWIG', 'GLSL', 'CSS', 'Assembly', 'CMake', 'Ragel', 'OpenEdge ABL']",15196,2012-08-10T19:34:38Z,Apache License 2.0
+normalizr,20983,888,202,193,JavaScript,"['JavaScript', 'TypeScript']",455,2014-08-20T08:41:38Z,MIT License
+pumpkin-book,20960,4558,624,59,,,437,2018-12-22T05:05:24Z,Other
+hosts,20946,10715,1295,88,,,601,2017-08-05T16:10:32Z,Other
+tornado,20945,5485,1004,1460,Python,"['Python', 'Shell', 'C', 'Cython', 'HTML']",4508,2009-09-09T04:55:16Z,Apache License 2.0
+YesPlayMusic,20936,3162,200,351,Vue,"['Vue', 'JavaScript', 'CSS', 'SCSS', 'Shell', 'Dockerfile', 'HTML']",637,2020-10-09T10:04:21Z,MIT License
+micro,20934,1090,261,754,Go,"['Go', 'Lua', 'Shell', 'Roff', 'Makefile']",2794,2016-03-11T02:06:28Z,MIT License
+highlight.js,20921,3419,303,1766,JavaScript,"['JavaScript', 'CSS', 'HTML', 'R', 'Groovy', 'Hy', 'Shell', 'Scheme', 'Dockerfile']",6474,2011-01-01T23:47:21Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+Kingfisher,20917,2363,362,692,Swift,"['Swift', 'Objective-C', 'Ruby']",2555,2015-04-06T14:26:21Z,MIT License
+DeepSpeech,20912,3638,658,1664,C++,"['C++', 'Python', 'C', 'Shell', 'C#', 'Swift', 'Java', 'Makefile', 'CMake', 'TypeScript']",3466,2016-06-02T15:04:53Z,Mozilla Public License 2.0
+stb,20900,7296,614,632,C,"['C', 'C++', 'Shell', 'Makefile', 'Batchfile']",2129,2014-05-25T16:51:23Z,Other
+tdesktop,20858,4337,777,1542,C++,"['C++', 'Objective-C++', 'CMake', 'Python', 'Shell', 'Dockerfile', 'Objective-C', 'Batchfile', 'CSS', 'Inno Setup']",14186,2014-05-02T12:36:31Z,Other
+bitcoinbook,20843,5509,1078,670,AsciiDoc,"['AsciiDoc', 'Python', 'HTML', 'C++', 'Go', 'CSS', 'JavaScript']",3915,2013-08-11T23:18:28Z,Other
+celery,20816,4413,475,2814,Python,"['Python', 'Shell', 'Dockerfile', 'Makefile', 'Batchfile']",12104,2009-04-24T11:31:24Z,Other
+setup-ipsec-vpn,20798,5627,650,92,Shell,['Shell'],1267,2016-01-07T16:44:12Z,Other
+autoprefixer,20786,1294,386,330,JavaScript,"['JavaScript', 'CSS']",2603,2013-03-14T05:04:51Z,MIT License
+homemade-machine-learning,20771,3816,942,20,Jupyter Notebook,"['Jupyter Notebook', 'Python']",250,2018-11-01T04:34:19Z,MIT License
+python-telegram-bot,20768,4578,597,1417,Python,"['Python', 'Makefile', 'Shell']",2511,2015-07-07T15:30:39Z,GNU General Public License v3.0
+awesome-compose,20766,3549,343,247,HTML,"['HTML', 'Dockerfile', 'Rust', 'TypeScript', 'Java', 'Python', 'JavaScript', 'C#', 'CSS', 'Go']",267,2020-02-13T08:51:42Z,Creative Commons Zero v1.0 Universal
+validator.js,20763,2087,226,1177,JavaScript,['JavaScript'],2159,2010-10-06T06:58:48Z,MIT License
+libuv,20747,3300,704,2141,C,"['C', 'M4', 'CMake', 'Makefile', 'Python', 'Shell', 'Batchfile']",5110,2013-11-30T00:29:56Z,MIT License
+vant,20739,9432,376,4698,TypeScript,"['TypeScript', 'Vue', 'Less', 'JavaScript', 'HTML', 'Smarty', 'Handlebars', 'Shell']",9329,2017-04-19T07:55:31Z,MIT License
+electron-react-boilerplate,20735,3522,278,1558,TypeScript,"['TypeScript', 'JavaScript', 'CSS', 'EJS', 'Shell']",1102,2015-05-18T09:54:57Z,MIT License
+notable,20733,1046,201,74,TypeScript,['TypeScript'],458,2018-12-22T13:57:19Z,
+the-swift-programming-language-in-chinese,20703,5160,1292,799,CSS,"['CSS', 'HTML']",2511,2014-06-03T04:44:09Z,
+v8,20688,3790,977,63,C++,"['C++', 'JavaScript', 'Python', 'HTML', 'TypeScript', 'C', 'Shell', 'CSS', 'Lua', 'Scheme']",79915,2014-09-24T15:24:30Z,Other
+gentelella,20685,6836,1106,258,HTML,"['HTML', 'JavaScript', 'CSS', 'SCSS']",456,2015-05-15T06:57:27Z,MIT License
+vegeta,20681,1276,321,220,Go,"['Go', 'CSS', 'Python', 'Gnuplot', 'Smarty', 'Makefile']",670,2013-08-13T11:45:21Z,MIT License
+The-Art-Of-Programming-By-July,20680,7182,1871,343,C,"['C', 'Python', 'Java', 'C++', 'JavaScript', 'Ruby', 'Go', 'PHP', 'Rebol', 'Erlang']",3649,2013-12-14T10:00:06Z,
+fairseq,20642,5180,360,1230,Python,"['Python', 'Cuda', 'C++', 'Cython', 'Lua', 'Shell']",2279,2017-08-29T16:26:12Z,MIT License
+openssl,20639,8783,974,12019,C,"['C', 'Perl', 'Raku', 'Assembly', 'Shell', 'C++', 'M4', 'eC', 'DIGITAL Command Language', 'Pawn']",32451,2013-01-15T22:34:48Z,Apache License 2.0
+awesome-actions,20627,1328,295,584,,,1252,2018-10-17T17:53:45Z,Creative Commons Zero v1.0 Universal
+gfwlist,20606,3943,736,27,,,3607,2015-03-13T13:24:56Z,GNU Lesser General Public License v2.1
+tips,20586,1743,574,170,JavaScript,['JavaScript'],399,2015-07-15T07:24:48Z,MIT License
+security-guide-for-developers,20580,1603,1111,42,,,146,2016-06-08T15:56:25Z,
+tachiyomi,20572,2354,562,2035,Kotlin,['Kotlin'],5465,2015-10-07T09:51:12Z,Apache License 2.0
+api-guidelines,20564,2529,636,219,,,679,2016-07-12T20:01:24Z,Other
+locust,20546,2619,431,878,Python,"['Python', 'HTML', 'JavaScript', 'Sass', 'Shell', 'Dockerfile', 'Makefile']",3939,2011-02-17T11:08:03Z,MIT License
+srs,20507,4818,831,555,C++,"['C++', 'JavaScript', 'HTML', 'Shell', 'Go', 'Python', 'NSIS', 'CMake', 'Lua', 'Dockerfile']",8488,2015-04-29T06:59:32Z,MIT License
+lens,20504,1194,248,3924,TypeScript,"['TypeScript', 'SCSS', 'JavaScript', 'HTML', 'Makefile', 'Jsonnet', 'Dockerfile', 'NSIS', 'CSS', 'Shell']",3351,2018-11-12T06:28:56Z,Other
+WaveFunctionCollapse,20501,1082,507,32,C#,['C#'],140,2016-09-30T11:53:17Z,Other
+flink,20496,11591,950,21732,Java,"['Java', 'Scala', 'Python', 'Shell', 'TypeScript', 'HiveQL', 'HTML', 'GAP', 'Cython', 'FreeMarker']",32635,2014-06-07T07:00:10Z,Apache License 2.0
+react-native-web,20496,1762,332,686,JavaScript,"['JavaScript', 'CSS', 'HTML', 'Shell']",1879,2015-06-09T19:25:38Z,MIT License
+games,20486,2708,891,395,,,648,2012-01-05T19:48:55Z,
+TDengine,20486,4596,703,15942,C,"['C', 'C++', 'Shell', 'Yacc', 'CMake', 'Batchfile', 'Objective-C', 'Inno Setup', 'Dockerfile', 'GDB']",46745,2019-07-11T08:33:48Z,GNU Affero General Public License v3.0
+firecracker,20483,1464,343,2048,Rust,"['Rust', 'Python', 'Shell', 'C', 'Ruby']",3860,2017-10-19T06:18:47Z,Apache License 2.0
+rancher,20482,2723,643,9208,Go,"['Go', 'Python', 'Groovy', 'Shell', 'PowerShell', 'HCL', 'Jinja', 'Dockerfile', 'Mustache', 'JavaScript']",9844,2014-11-07T20:49:31Z,Apache License 2.0
+masscan,20468,2853,652,195,C,"['C', 'Makefile']",705,2013-07-28T05:35:33Z,Other
+IntelliJ-IDEA-Tutorial,20459,7375,1782,74,,,478,2015-08-17T15:25:52Z,GNU General Public License v2.0
+redisson,20458,4939,889,529,Java,['Java'],7700,2014-01-11T14:06:25Z,Apache License 2.0
+table,20457,2695,166,900,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Svelte']",2113,2016-10-20T17:25:08Z,MIT License
+es6tutorial,20444,8918,896,598,JavaScript,"['JavaScript', 'CSS', 'HTML']",2094,2014-04-20T13:06:28Z,Other
+Sentinel,20432,7422,787,945,Java,"['Java', 'JavaScript', 'HTML', 'CSS', 'Dockerfile', 'Shell', 'Starlark']",788,2018-04-04T06:37:33Z,Apache License 2.0
+backstage,20418,3509,203,11618,TypeScript,"['TypeScript', 'JavaScript', 'Handlebars', 'CSS', 'Smarty', 'HTML', 'Dockerfile', 'Mustache', 'Shell', 'Makefile']",36342,2020-01-24T22:39:49Z,Apache License 2.0
+mpvue,20410,2112,600,148,JavaScript,"['JavaScript', 'HTML', 'CSS', 'TypeScript', 'Shell']",2328,2018-03-07T03:09:25Z,MIT License
+awesome-datascience,20408,5316,1406,321,,,961,2014-07-05T07:07:43Z,MIT License
+exa,20396,607,138,329,Rust,"['Rust', 'Shell']",1558,2014-05-22T12:45:16Z,MIT License
+freqtrade,20365,4332,599,4484,Python,"['Python', 'Jinja', 'Shell', 'Jupyter Notebook', 'Dockerfile', 'HTML', 'PowerShell', 'Gnuplot']",19470,2017-05-17T23:48:53Z,GNU General Public License v3.0
+wttr.in,20346,975,224,286,Python,"['Python', 'Go', 'Shell', 'SaltStack', 'HTML', 'Dockerfile', 'CSS']",1256,2015-12-26T21:03:43Z,Apache License 2.0
+SummaryOfLoanSuspension,20344,2255,350,508,HTML,"['HTML', 'TypeScript', 'Python', 'PHP', 'JavaScript', 'CSS', 'C#', 'Less', 'Dockerfile', 'Shell']",1065,2022-07-12T16:33:25Z,
+Aerial,20342,1034,381,259,Swift,"['Swift', 'Ruby', 'Makefile', 'Objective-C']",1326,2015-10-26T21:21:31Z,MIT License
+dracula-theme,20339,2115,187,121,,,541,2013-10-27T12:39:02Z,MIT License
+WeChatExtension-ForMac,20309,3450,295,72,Objective-C,['Objective-C'],1052,2019-04-25T03:02:16Z,MIT License
+js-cookie,20295,2085,345,249,JavaScript,"['JavaScript', 'HTML']",830,2015-03-19T15:57:47Z,MIT License
+ExoPlayer,20289,5869,856,1158,Java,"['Java', 'C++', 'Shell', 'GLSL', 'Makefile', 'CMake']",14883,2014-06-13T21:19:18Z,Apache License 2.0
+You-Dont-Need-jQuery,20283,1827,536,181,JavaScript,['JavaScript'],622,2015-11-21T16:02:26Z,MIT License
+MonitorControl,20281,635,153,228,Swift,"['Swift', 'Objective-C']",229,2017-09-16T21:13:40Z,MIT License
+v2ray-core,20272,3311,376,859,Go,"['Go', 'Shell', 'Assembly', 'Makefile', 'HTML']",6310,2019-04-15T10:05:54Z,MIT License
+dapr,20264,1601,429,2988,Go,"['Go', 'Shell', 'Makefile', 'Bicep', 'Java', 'JavaScript', 'Mustache', 'Dockerfile', 'C#', 'Python']",3866,2019-06-19T00:49:06Z,Apache License 2.0
+generator-jhipster,20263,3918,743,13620,TypeScript,"['TypeScript', 'JavaScript', 'Java', 'EJS', 'Vue', 'Shell', 'SCSS', 'CSS', 'Dockerfile', 'Mustache']",42699,2013-10-21T20:07:22Z,Apache License 2.0
+mxnet,20241,6876,1089,11104,C++,"['C++', 'Python', 'Jupyter Notebook', 'Cuda', 'CMake', 'Shell', 'C', 'Groovy', 'Dockerfile', 'Cython']",11895,2015-04-30T16:21:15Z,Apache License 2.0
+android-best-practices,20228,3436,1481,109,,,247,2014-07-29T09:09:44Z,Other
+bluebird,20226,2423,351,550,JavaScript,"['JavaScript', 'CSS', 'Shell', 'HTML']",2112,2013-09-07T19:39:57Z,MIT License
+pocketbase,20225,769,138,95,Go,"['Go', 'Svelte', 'SCSS', 'JavaScript', 'HTML', 'Shell', 'Makefile']",414,2022-07-05T06:06:21Z,MIT License
+fish-shell,20223,1651,278,2806,C++,"['C++', 'Shell', 'Python', 'CMake', 'JavaScript', 'HTML', 'CSS', 'Dockerfile', 'Objective-C', 'Makefile']",16689,2012-05-10T03:00:55Z,Other
+ava,20203,1467,229,1370,JavaScript,"['JavaScript', 'TypeScript']",1958,2014-11-18T17:20:26Z,MIT License
+jenkins,20176,7844,868,7558,Java,"['Java', 'HTML', 'JavaScript', 'CSS', 'Less', 'Groovy', 'Ruby', 'Perl', 'Handlebars', 'Python']",33312,2010-11-22T21:21:23Z,MIT License
+HowToLiveLonger,20141,1328,185,22,,,58,2022-04-16T04:15:18Z,The Unlicense
+bazel,20140,3639,611,5981,Java,"['Java', 'Python', 'Shell', 'C++', 'C', 'Smarty', 'HTML', 'Starlark', 'PowerShell', 'Objective-C']",34656,2014-06-12T16:00:38Z,Apache License 2.0
+How-to-Make-a-Computer-Operating-System,20138,3398,1586,95,C,"['C', 'C++', 'Assembly', 'Makefile', 'Ruby', 'Shell']",243,2013-11-29T17:36:32Z,Apache License 2.0
+awesome-deep-learning,20135,5765,1232,205,,,533,2015-01-02T19:28:35Z,
+forem,20133,3587,358,13128,Ruby,"['Ruby', 'JavaScript', 'HTML', 'SCSS', 'CSS', 'Shell', 'VCL', 'Dockerfile', 'Procfile']",12304,2016-11-13T23:02:13Z,GNU Affero General Public License v3.0
+monolog,20122,1844,316,1027,PHP,['PHP'],2665,2011-02-17T02:07:15Z,MIT License
+refined-github,20120,1380,213,2912,TypeScript,"['TypeScript', 'CSS', 'Swift', 'HTML', 'Shell', 'JavaScript']",3264,2016-02-15T16:45:02Z,MIT License
+mediapipe,20084,4214,498,240,C++,"['C++', 'Starlark', 'Python', 'Java', 'TypeScript', 'Objective-C', 'Objective-C++', 'C', 'Shell', 'Swift']",954,2019-06-13T19:16:41Z,Apache License 2.0
+ChromeAppHeroes,20072,2224,634,27,JavaScript,"['JavaScript', 'CSS', 'HTML', 'Python']",793,2019-02-07T06:35:24Z,GNU General Public License v3.0
+chinese-independent-developer,20072,1881,994,155,,,913,2017-09-21T11:08:23Z,
+GPUImage,20040,4642,744,447,Objective-C,"['Objective-C', 'Ruby', 'Shell', 'C']",1082,2012-02-13T15:20:02Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+javascript-testing-best-practices,20033,1770,304,183,JavaScript,['JavaScript'],1009,2019-07-04T11:08:12Z,MIT License
+CyberChef,20017,2361,361,583,JavaScript,"['JavaScript', 'CSS', 'HTML']",3444,2016-11-28T10:34:07Z,Apache License 2.0
+winston,20005,1741,223,899,JavaScript,"['JavaScript', 'TypeScript']",1510,2010-12-29T18:49:51Z,MIT License
+lux,20001,2393,351,285,Go,"['Go', 'JavaScript']",765,2018-02-24T11:29:03Z,MIT License
+leetcode,19984,3590,284,840,Java,"['Java', 'C++', 'Python', 'Go', 'TypeScript', 'Rust', 'JavaScript', 'C#', 'C', 'HTML']",6561,2018-09-16T14:03:03Z,Creative Commons Attribution Share Alike 4.0 International
+ReactiveCocoa,19973,3562,838,1719,Swift,"['Swift', 'Shell', 'Ruby', 'Objective-C']",8656,2012-03-02T22:11:24Z,MIT License
+flameshot,19972,1257,202,937,C++,"['C++', 'CMake', 'Shell', 'Python', 'Roff', 'C', 'Makefile', 'Nix']",1859,2017-05-10T19:44:51Z,GNU General Public License v3.0
+Rectangle,19971,578,83,195,Swift,"['Swift', 'Ruby', 'Objective-C']",988,2019-06-21T21:34:53Z,Other
+pytudes,19969,2276,732,83,Jupyter Notebook,"['Jupyter Notebook', 'HTML', 'Python', 'Java']",824,2017-03-01T05:43:35Z,MIT License
+parse-server,19966,4710,596,4062,JavaScript,"['JavaScript', 'HTML', 'Shell', 'Handlebars', 'Dockerfile']",4108,2016-01-28T18:29:14Z,Other
+aseprite,19963,1856,412,440,C++,"['C++', 'Lua', 'CMake', 'Shell', 'C', 'Objective-C++']",8893,2014-08-19T23:44:50Z,
+enzyme,19960,2100,269,807,JavaScript,"['JavaScript', 'Shell']",2009,2015-11-10T21:45:38Z,MIT License
+go-micro,19950,2219,516,1555,Go,['Go'],3736,2015-01-13T23:30:18Z,Apache License 2.0
+FileSaver.js,19947,4402,364,162,JavaScript,['JavaScript'],332,2011-07-15T03:27:54Z,Other
+stackedit,19945,2656,512,129,JavaScript,"['JavaScript', 'Vue', 'HTML', 'SCSS', 'Mustache', 'Shell', 'Dockerfile']",313,2013-03-24T13:46:06Z,Apache License 2.0
+postgrest,19931,915,348,1018,Haskell,"['Haskell', 'PLpgSQL', 'Nix', 'Python', 'Shell', 'Dockerfile', 'Dhall']",2367,2014-06-13T00:23:00Z,MIT License
+osquery,19907,2394,687,4770,C++,"['C++', 'C', 'CMake', 'Python', 'Objective-C++', 'PowerShell', 'Shell', 'Assembly', 'Roff', 'Thrift']",6265,2014-07-29T20:27:33Z,Other
+macOS-Security-and-Privacy-Guide,19875,1416,757,160,Python,['Python'],584,2015-08-31T03:36:35Z,MIT License
+penpot,19871,908,178,1699,Clojure,"['Clojure', 'SCSS', 'JavaScript', 'HTML', 'Shell', 'Dockerfile', 'PLpgSQL', 'CSS', 'Java', 'Mustache']",9237,2015-12-29T22:09:07Z,Mozilla Public License 2.0
+delve,19871,1999,382,1722,Go,"['Go', 'C', 'Kotlin', 'Shell', 'PowerShell', 'Assembly', 'Starlark', 'Makefile', 'Python']",2373,2014-05-20T19:24:43Z,MIT License
+API-Security-Checklist,19870,2377,525,130,,,321,2017-07-08T20:01:38Z,MIT License
+ruby,19867,5230,1135,7127,Ruby,"['Ruby', 'C', 'C++', 'Yacc', 'Makefile', 'Rust', 'M4', 'Roff', 'Python', 'GDB']",75840,2010-02-27T15:55:23Z,Other
+en.javascript.info,19866,3455,334,2542,HTML,"['HTML', 'JavaScript', 'CSS', 'PHP']",6413,2017-06-03T14:27:57Z,Other
+nanoid,19838,726,155,198,JavaScript,"['JavaScript', 'HTML']",945,2017-08-05T05:24:35Z,MIT License
+logseq,19825,1193,174,2316,Clojure,"['Clojure', 'TypeScript', 'JavaScript', 'CSS', 'HTML', 'Java', 'Swift', 'Shell', 'Ruby', 'Dockerfile']",10687,2020-05-23T00:06:06Z,GNU Affero General Public License v3.0
+vnpy,19796,7649,1352,1413,Python,"['Python', 'Shell', 'Batchfile']",6517,2015-03-02T03:36:58Z,MIT License
+jellyfin,19794,1858,288,3880,C#,"['C#', 'Shell', 'HTML', 'Dockerfile', 'Makefile', 'CSS']",23668,2018-12-09T06:36:45Z,GNU General Public License v2.0
+ink,19780,528,105,241,TypeScript,"['TypeScript', 'JavaScript']",512,2017-06-12T06:12:28Z,MIT License
+pop,19763,2916,1072,146,Objective-C++,"['Objective-C++', 'Objective-C', 'C++', 'Ruby', 'C']",310,2014-03-30T22:29:12Z,Other
+RxAndroid,19762,3012,1014,237,Java,['Java'],541,2014-08-19T03:46:38Z,Apache License 2.0
+trpc,19760,643,72,2609,TypeScript,"['TypeScript', 'JavaScript', 'CSS']",2772,2020-07-18T01:17:11Z,MIT License
+flatbuffers,19738,2999,647,2236,C++,"['C++', 'Rust', 'Python', 'Swift', 'TypeScript', 'Java', 'C#', 'JavaScript', 'Dart', 'Kotlin']",2858,2014-05-19T18:33:01Z,Apache License 2.0
+kratos,19718,3712,440,1655,Go,"['Go', 'Shell', 'Makefile']",1674,2019-01-10T10:42:31Z,MIT License
+homebrew-cask,19717,10082,309,133434,Ruby,"['Ruby', 'Shell', 'Python']",165354,2012-03-05T02:05:17Z,"BSD 2-Clause ""Simplified"" License"
+snowpack,19714,976,150,1495,JavaScript,"['JavaScript', 'TypeScript', 'Astro', 'SCSS', 'HTML', 'CSS', 'Vue', 'Svelte', 'AppleScript', 'Nunjucks']",3441,2019-02-26T15:45:38Z,MIT License
+modern-cpp-tutorial,19710,2643,615,134,C++,"['C++', 'Stylus', 'EJS', 'TeX', 'Makefile', 'JavaScript', 'Python', 'Dockerfile', 'C', 'HTML']",276,2016-08-19T14:39:15Z,MIT License
+xi-editor,19707,711,418,796,Rust,"['Rust', 'Python', 'C++', 'Makefile', 'Shell']",2107,2016-04-26T23:03:23Z,Apache License 2.0
+jumpserver,19690,4782,643,4681,Python,"['Python', 'CSS', 'Less', 'Shell', 'Dockerfile', 'Modelica']",8442,2014-07-04T03:54:59Z,GNU General Public License v3.0
+profile-summary-for-github,19689,499,108,40,Vue,"['Vue', 'Kotlin', 'HTML', 'Dockerfile', 'Procfile']",230,2017-12-10T13:29:15Z,Apache License 2.0
+chalk,19657,811,142,171,JavaScript,"['JavaScript', 'TypeScript']",347,2013-08-03T00:20:12Z,MIT License
+chinese-programmer-wrong-pronunciation,19648,1487,401,170,JavaScript,"['JavaScript', 'Python', 'CSS', 'HTML', 'Shell']",442,2017-02-15T09:02:40Z,
+cli,19643,1660,298,890,Go,"['Go', 'Makefile', 'Shell', 'PowerShell']",2798,2013-07-13T19:32:06Z,MIT License
+joi,19636,1528,180,642,JavaScript,"['JavaScript', 'TypeScript']",2368,2012-09-16T16:38:06Z,Other
+ClashForAndroid,19632,2294,374,66,Kotlin,"['Kotlin', 'Go', 'C', 'CMake', 'Java']",216,2019-11-15T00:13:59Z,GNU General Public License v3.0
+js-stack-from-scratch,19624,2022,593,105,JavaScript,['JavaScript'],569,2016-10-02T13:31:23Z,MIT License
+RxJS,19590,2205,559,637,JavaScript,"['JavaScript', 'TypeScript', 'HTML', 'Shell', 'CSS']",2357,2012-01-07T00:31:41Z,Other
+recharts,19590,1495,179,610,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'Shell']",2020,2015-08-07T06:50:27Z,MIT License
+wiki,19574,2206,293,573,Vue,"['Vue', 'JavaScript', 'SCSS', 'HTML', 'Shell', 'Pug', 'Go', 'CSS', 'Mustache', 'Dockerfile']",2055,2016-08-16T19:35:26Z,GNU Affero General Public License v3.0
+Rocket,19566,1375,268,695,Rust,"['Rust', 'Shell', 'Handlebars', 'HTML']",2141,2016-03-18T02:50:18Z,Other
+examples,19561,9032,398,530,Python,"['Python', 'C++', 'Shell', 'CMake']",695,2016-08-24T03:12:48Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+blueprint,19554,2084,447,2916,TypeScript,"['TypeScript', 'SCSS', 'JavaScript', 'Shell', 'HTML', 'Handlebars']",2744,2016-10-25T21:17:50Z,Apache License 2.0
+SpaceVim,19509,1486,310,2449,Lua,"['Lua', 'Vim Script', 'Shell', 'PowerShell', 'Makefile', 'Dockerfile', 'Batchfile']",6099,2016-12-26T04:40:55Z,GNU General Public License v3.0
+awesome-falsehood,19501,486,371,102,,,472,2016-09-08T09:13:47Z,Creative Commons Zero v1.0 Universal
+directus,19496,2316,293,5697,TypeScript,"['TypeScript', 'Vue', 'SCSS', 'JavaScript', 'Liquid', 'CSS', 'Dockerfile', 'HTML', 'Makefile']",9804,2012-12-12T01:35:36Z,GNU General Public License v3.0
+zig,19492,1472,262,6517,Zig,"['Zig', 'C++', 'C', 'JavaScript', 'CMake', 'HTML', 'Python', 'Shell', 'PowerShell', 'Objective-C']",22305,2015-08-06T00:51:28Z,MIT License
+material-dialogs,19492,3163,561,277,Kotlin,['Kotlin'],2020,2014-11-03T03:21:42Z,Apache License 2.0
+trilium,19484,1270,232,229,JavaScript,"['JavaScript', 'CSS', 'EJS', 'Shell', 'HTML', 'Batchfile', 'Dockerfile']",6089,2017-05-23T00:30:20Z,GNU Affero General Public License v3.0
+100-Days-Of-ML-Code,19480,5322,1102,56,Jupyter Notebook,"['Jupyter Notebook', 'Python']",323,2018-08-05T13:32:48Z,MIT License
+Paddle,19442,4866,735,33910,C++,"['C++', 'Python', 'Cuda', 'CMake', 'Shell', 'C', 'Batchfile', 'Go', 'MLIR', 'Jinja']",39621,2016-08-15T06:59:08Z,Apache License 2.0
+Public-APIs,19423,1669,374,485,,,701,2016-01-13T18:53:25Z,
+vimium,19388,2343,291,1029,JavaScript,"['JavaScript', 'HTML', 'CSS', 'TypeScript']",4501,2009-09-20T07:08:19Z,MIT License
+yup,19383,822,66,466,TypeScript,"['TypeScript', 'JavaScript']",730,2014-09-22T23:54:22Z,MIT License
+upterm,19370,652,398,566,TypeScript,"['TypeScript', 'HTML', 'Dockerfile']",2998,2015-03-22T07:00:24Z,MIT License
+redoc,19362,2107,284,627,TypeScript,"['TypeScript', 'JavaScript', 'Shell', 'Dockerfile', 'HTML', 'Handlebars']",2512,2015-10-30T12:53:02Z,MIT License
+zstd,19352,1838,399,2284,C,"['C', 'C++', 'Shell', 'Python', 'Makefile', 'CMake', 'Roff', 'Meson', 'Assembly', 'Starlark']",9965,2015-01-24T00:22:38Z,Other
+k9s,19344,1226,140,574,Go,"['Go', 'Makefile', 'Shell', 'Dockerfile']",1366,2019-01-25T18:46:02Z,Apache License 2.0
+architecture.of.internet-product,19342,4538,1294,4,HTML,['HTML'],22,2018-04-30T10:25:31Z,
+system-design-interview,19335,4760,965,44,,,87,2014-05-18T02:40:53Z,
+my-mac-os,19330,856,476,37,,,376,2016-03-04T12:26:34Z,
+nightmare,19328,1161,354,407,JavaScript,"['JavaScript', 'Shell', 'Makefile', 'CSS']",993,2014-04-05T22:19:51Z,
+ws,19320,2276,385,675,JavaScript,['JavaScript'],1838,2011-11-09T22:32:45Z,MIT License
+PicGo,19318,1980,173,35,TypeScript,"['TypeScript', 'Vue', 'JavaScript', 'AppleScript', 'PowerShell', 'Shell', 'HTML', 'NSIS']",487,2017-12-12T08:39:44Z,MIT License
+graphql-js,19313,2065,402,2710,TypeScript,"['TypeScript', 'JavaScript', 'CSS', 'Shell']",3314,2015-06-30T12:16:50Z,MIT License
+solidity,19274,4623,696,8080,C++,"['C++', 'Solidity', 'Yul', 'Python', 'Shell', 'CMake', 'C', 'Dockerfile', 'JavaScript', 'PowerShell']",23095,2015-08-17T12:27:26Z,GNU General Public License v3.0
+popmotion,19266,690,231,367,JavaScript,"['JavaScript', 'TypeScript', 'HTML']",3010,2014-08-17T16:23:07Z,
+NES.css,19262,1599,196,316,SCSS,"['SCSS', 'JavaScript', 'HTML']",827,2018-09-24T01:49:11Z,MIT License
+fyne,19260,1070,242,1461,Go,"['Go', 'C', 'JavaScript', 'Objective-C', 'Java', 'HTML', 'GLSL', 'Makefile', 'Assembly', 'CSS']",7629,2018-02-04T22:07:16Z,Other
+Proton,19255,858,381,177,C++,"['C++', 'C', 'C#', 'Python', 'Rust', 'Roff', 'Makefile', 'Shell', 'Ruby']",1389,2018-03-13T18:45:27Z,Other
+DoKit,19245,2961,402,442,Java,"['Java', 'Objective-C', 'Kotlin', 'Dart', 'Vue', 'JavaScript', 'Swift', 'HTML', 'C', 'Objective-C++']",2306,2018-08-14T10:32:07Z,Apache License 2.0
+harbor,19219,4252,538,7923,Go,"['Go', 'TypeScript', 'HTML', 'Python', 'RobotFramework', 'Jinja', 'SCSS', 'Shell', 'Makefile', 'Dockerfile']",11521,2016-01-28T21:10:28Z,Apache License 2.0
+Babylon.js,19201,3007,544,10632,TypeScript,"['TypeScript', 'JavaScript', 'HLSL', 'SCSS', 'Roff', 'HTML', 'Batchfile']",39031,2013-06-27T20:40:42Z,Apache License 2.0
+restic,19191,1251,240,1886,Go,"['Go', 'Dockerfile', 'Shell', 'Makefile']",6662,2014-04-27T14:07:58Z,"BSD 2-Clause ""Simplified"" License"
+skill-map,19178,4336,1678,65,HTML,"['HTML', 'CSS', 'JavaScript']",397,2015-11-17T11:17:38Z,
+eladmin,19177,6931,546,156,Java,"['Java', 'PLpgSQL', 'FreeMarker']",507,2018-12-14T08:54:24Z,Apache License 2.0
+ScreenToGif,19172,1935,343,267,C#,"['C#', 'CSS']",1184,2016-08-02T01:28:59Z,Microsoft Public License
+k6,19167,1008,311,1391,Go,"['Go', 'Python', 'Shell', 'JavaScript', 'Dockerfile', 'Makefile']",4952,2016-03-21T15:30:24Z,GNU Affero General Public License v3.0
+jitsi-meet,19142,6002,509,7225,TypeScript,"['TypeScript', 'JavaScript', 'Lua', 'Java', 'Objective-C', 'SCSS', 'Swift', 'Shell', 'HTML', 'Ruby']",11009,2013-12-16T12:51:09Z,Apache License 2.0
+SwitchHosts,19128,2158,387,83,TypeScript,"['TypeScript', 'Less', 'JavaScript', 'Shell']",1294,2011-09-02T09:38:09Z,Apache License 2.0
+PHPMailer,19100,9528,889,684,PHP,"['PHP', 'Shell']",2261,2011-08-23T07:57:17Z,GNU Lesser General Public License v2.1
+SnapKit,19093,1922,387,206,Swift,"['Swift', 'Ruby']",530,2014-06-05T21:13:40Z,MIT License
+Tasmota,19092,4262,648,5154,C,"['C', 'C++', 'HTML', 'Berry', 'Python', 'Makefile', 'Processing', 'Shell', 'CMake', 'CSS']",17345,2017-01-28T13:37:08Z,GNU General Public License v3.0
+SpinKit,19067,1848,449,94,CSS,"['CSS', 'HTML']",262,2013-12-12T23:29:41Z,MIT License
+pytorch-CycleGAN-and-pix2pix,19059,5642,346,143,Python,"['Python', 'Jupyter Notebook', 'Shell', 'MATLAB', 'TeX']",523,2017-04-18T10:33:05Z,Other
+learn-go-with-tests,19054,2515,316,445,Go,"['Go', 'HTML', 'Shell', 'TeX']",1261,2018-03-02T11:41:14Z,MIT License
+labelImg,19037,5728,380,239,Python,"['Python', 'Shell', 'Makefile']",449,2015-09-17T01:33:59Z,MIT License
+eng-practices,19024,1851,661,35,,,70,2019-09-04T20:47:01Z,Other
+phoenix,19007,2579,582,2913,Elixir,"['Elixir', 'JavaScript', 'HTML', 'Euphoria', 'Earthly', 'CSS', 'Shell']",7589,2014-01-20T14:14:11Z,MIT License
+SwitchyOmega,18975,2976,833,36,CoffeeScript,"['CoffeeScript', 'Pug', 'JavaScript', 'Less', 'CSS', 'HTML']",619,2012-06-08T15:32:30Z,GNU General Public License v3.0
+vscodium,18956,797,187,395,Shell,"['Shell', 'XSLT', 'JavaScript', 'PowerShell']",868,2018-08-13T14:26:58Z,MIT License
+fasthttp,18955,1584,396,549,Go,['Go'],1531,2015-10-18T22:19:57Z,MIT License
+tokio,18954,1760,300,3111,Rust,"['Rust', 'Shell']",3239,2016-09-09T22:31:36Z,MIT License
+lowdb,18949,875,237,138,JavaScript,"['JavaScript', 'Shell']",503,2014-04-02T02:16:06Z,MIT License
+OpenBBTerminal,18924,1978,237,2463,Python,['Python'],3933,2020-12-20T10:46:38Z,MIT License
+faiss,18923,2778,448,629,C++,"['C++', 'Python', 'Cuda', 'C', 'CMake', 'Shell', 'Roff', 'Batchfile', 'Dockerfile']",726,2017-02-07T16:07:05Z,MIT License
+responsively-app,18922,824,139,324,JavaScript,"['JavaScript', 'TypeScript', 'PowerShell', 'Shell', 'EJS']",1477,2019-08-10T02:48:18Z,GNU Affero General Public License v3.0
+awesome-cto,18920,1025,594,18,,,179,2016-12-16T19:22:18Z,Creative Commons Zero v1.0 Universal
+vue-router,18920,5169,527,951,JavaScript,"['JavaScript', 'TypeScript', 'Shell']",1445,2013-12-11T19:37:46Z,MIT License
+turbo,18906,1133,113,1998,Rust,"['Rust', 'Go', 'TypeScript', 'JavaScript', 'Perl', 'Makefile', 'Shell', 'CSS', 'Dockerfile', 'Handlebars']",3556,2021-10-05T17:37:11Z,Mozilla Public License 2.0
+hyperapp,18905,837,310,493,JavaScript,['JavaScript'],1390,2017-01-20T05:20:21Z,MIT License
+shields,18902,5233,123,6400,JavaScript,"['JavaScript', 'TypeScript', 'Dockerfile', 'HTML', 'Procfile']",6380,2013-01-30T07:41:54Z,Creative Commons Zero v1.0 Universal
+NativeBase,18902,2330,275,2217,TypeScript,"['TypeScript', 'JavaScript', 'Java', 'Objective-C', 'CSS', 'Shell', 'Ruby', 'Starlark']",6270,2016-04-15T11:37:23Z,MIT License
+RevokeMsgPatcher,18862,2495,235,9,C#,['C#'],230,2019-07-21T15:12:52Z,GNU General Public License v3.0
+dgraph,18856,1436,374,6121,Go,"['Go', 'Shell', 'HCL', 'TeX', 'Makefile', 'JavaScript', 'Ruby', 'Dockerfile', 'Smarty']",5824,2015-08-25T07:15:56Z,Other
+phpunit,18851,2121,326,1801,PHP,"['PHP', 'Smarty']",17532,2009-12-24T13:16:23Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+reselect,18830,694,166,207,TypeScript,"['TypeScript', 'JavaScript']",722,2015-07-01T11:06:45Z,MIT License
+jstraining,18782,4779,1173,27,,,94,2016-10-27T12:00:26Z,
+svgo,18779,1336,250,600,JavaScript,"['JavaScript', 'TypeScript']",1362,2012-08-22T10:41:43Z,MIT License
+fastclick,18774,3313,500,207,HTML,"['HTML', 'JavaScript', 'Makefile']",408,2012-02-13T08:38:00Z,MIT License
+Skeleton,18768,3155,502,212,CSS,['CSS'],167,2011-04-30T20:04:24Z,MIT License
+typescript-book,18767,2363,306,418,TypeScript,"['TypeScript', 'HTML']",1619,2015-03-21T07:01:38Z,Other
+expo,18766,3788,256,9970,TypeScript,"['TypeScript', 'Objective-C', 'Kotlin', 'Java', 'Swift', 'JavaScript', 'C++', 'C', 'Objective-C++', 'Ruby']",17207,2016-08-15T17:14:25Z,MIT License
+termux-app,18766,2308,988,292,Java,"['Java', 'C++', 'C', 'Shell', 'Makefile', 'Assembly']",1420,2015-10-23T09:42:46Z,Other
+p5.js,18756,2795,499,2486,JavaScript,"['JavaScript', 'HTML', 'GLSL', 'CSS']",10063,2013-02-26T03:14:47Z,GNU Lesser General Public License v2.1
+cookiecutter,18753,1776,236,1027,Python,"['Python', 'Makefile', 'Jinja', 'Shell', 'Batchfile']",2962,2013-07-14T18:31:22Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+react-dnd,18727,1906,187,1901,TypeScript,"['TypeScript', 'JavaScript', 'CSS', 'HTML', 'Dockerfile', 'Shell']",2229,2014-10-19T13:29:28Z,MIT License
+30-Days-Of-React,18722,4802,372,200,JavaScript,"['JavaScript', 'HTML', 'SCSS', 'CSS']",271,2020-09-29T13:38:54Z,
+PlotNeuralNet,18717,2567,221,32,TeX,"['TeX', 'Python', 'Shell']",58,2018-07-24T16:51:34Z,MIT License
+source-code-pro,18704,1630,614,61,CSS,['CSS'],29,2012-08-09T23:14:02Z,SIL Open Font License 1.1
+pydata-book,18699,13881,1459,72,Jupyter Notebook,"['Jupyter Notebook', 'Python']",69,2012-06-30T18:39:12Z,Other
+HarmonyOS,18698,3330,998,47,C,"['C', 'Shell', 'Assembly', 'Perl', 'Makefile', 'C++', 'HTML', 'CMake', 'M4', 'Pawn']",78,2019-08-09T11:24:00Z,
+websocket,18697,3173,384,248,Go,['Go'],311,2013-10-16T16:41:46Z,"BSD 2-Clause ""Simplified"" License"
+colly,18690,1531,327,232,Go,"['Go', 'HTML']",637,2017-09-29T14:08:49Z,Apache License 2.0
+qBittorrent,18687,3166,391,3708,C++,"['C++', 'JavaScript', 'HTML', 'Python', 'M4', 'CSS', 'CMake', 'Shell', 'QMake', 'C']",12151,2012-02-04T09:37:46Z,Other
+Mock,18682,2677,431,50,JavaScript,"['JavaScript', 'HTML']",230,2013-04-26T08:06:57Z,Other
+testify,18676,1387,178,646,Go,"['Go', 'Shell']",808,2012-10-16T16:43:17Z,MIT License
+rxdb,18663,925,225,3655,TypeScript,"['TypeScript', 'HTML', 'JavaScript', 'CSS', 'Dart', 'Shell']",8558,2016-12-02T19:34:42Z,Apache License 2.0
+reinforcement-learning,18661,5835,868,91,Jupyter Notebook,"['Jupyter Notebook', 'Python']",262,2016-08-24T17:02:41Z,MIT License
+v2rayNG,18659,3095,422,164,Kotlin,"['Kotlin', 'Java']",2,2019-05-15T02:15:31Z,GNU General Public License v3.0
+wenyan,18659,1077,249,197,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Makefile']",915,2019-12-08T20:21:32Z,MIT License
+headlessui,18650,746,166,465,TypeScript,"['TypeScript', 'Vue', 'JavaScript', 'Shell', 'HTML']",517,2020-09-16T09:53:09Z,MIT License
+Awesome-Linux-Software,18645,1882,522,539,Python,['Python'],1589,2016-08-06T13:16:29Z,
+rocketmq,18620,10448,898,2916,Java,"['Java', 'Shell', 'Starlark', 'Batchfile', 'Python']",7748,2016-11-30T08:00:08Z,Apache License 2.0
+monica,18590,1829,276,4630,PHP,"['PHP', 'Vue', 'Blade', 'Shell', 'Dockerfile', 'Makefile', 'Procfile']",3743,2017-02-17T00:02:58Z,GNU Affero General Public License v3.0
+winget-cli,18578,1106,294,890,C++,"['C++', 'C', 'C#', 'PowerShell', 'Assembly', 'Ada', 'CMake', 'Pascal', 'HTML', 'Makefile']",790,2019-07-16T22:16:49Z,MIT License
+skrollr,18576,3555,723,87,HTML,"['HTML', 'JavaScript', 'CSS']",606,2012-03-18T15:41:35Z,MIT License
+core,18531,4760,1339,1742,PowerShell,"['PowerShell', 'Shell']",4017,2014-11-18T00:44:57Z,MIT License
+awesome-spider,18524,4547,816,49,,,151,2016-09-30T02:33:03Z,MIT License
+FizzBuzzEnterpriseEdition,18504,731,177,129,Java,['Java'],184,2012-11-24T00:14:41Z,
+web-starter-kit,18469,3133,949,421,HTML,"['HTML', 'JavaScript', 'CSS']",720,2014-04-07T08:45:18Z,Apache License 2.0
+GitHubDaily,18456,2120,969,9,,,87,2018-12-30T13:56:58Z,
+picasso,18448,4025,860,783,Kotlin,"['Kotlin', 'HTML', 'CSS', 'Java', 'Shell']",1564,2013-05-14T15:07:47Z,Apache License 2.0
+filebrowser,18438,2249,289,511,Go,"['Go', 'Vue', 'CSS', 'JavaScript', 'HTML', 'Makefile', 'Shell', 'Dockerfile']",2352,2015-09-11T21:21:58Z,Apache License 2.0
+PhotoView,18420,3915,642,153,Java,['Java'],462,2012-07-17T16:39:00Z,Apache License 2.0
+wekan,18417,2771,573,1236,JavaScript,"['JavaScript', 'HTML', 'Pug', 'CSS', 'Shell', 'Python', 'Batchfile', 'Dockerfile', 'Perl', ""Cap'n Proto""]",9767,2014-01-21T01:26:28Z,MIT License
+element-plus,18410,7609,180,5429,Vue,"['Vue', 'TypeScript', 'JavaScript', 'Shell', 'HTML']",4413,2020-07-21T06:51:19Z,MIT License
+apollo-client,18402,2525,300,5411,TypeScript,"['TypeScript', 'JavaScript']",11389,2016-02-26T20:25:00Z,MIT License
+helix,18389,1224,139,2663,Rust,"['Rust', 'Scheme', 'JavaScript', 'CSS', 'Handlebars', 'Nix', 'Shell', 'Elvish']",4013,2020-06-01T04:26:56Z,Mozilla Public License 2.0
+Vue.Draggable,18374,2819,234,146,JavaScript,"['JavaScript', 'Vue', 'HTML']",521,2016-06-28T02:50:19Z,MIT License
+jsdom,18363,1577,270,1332,JavaScript,"['JavaScript', 'HTML', 'Roff', 'WebIDL', 'Python', 'CSS']",3580,2010-01-19T06:55:19Z,MIT License
+shap,18361,2767,264,507,Jupyter Notebook,"['Jupyter Notebook', 'Python', 'C++', 'JavaScript', 'Cuda', 'PowerShell', 'Batchfile', 'HTML']",2277,2016-11-22T19:17:08Z,MIT License
+egg,18311,1790,474,1194,JavaScript,"['JavaScript', 'TypeScript', 'Less', 'Shell']",1075,2016-06-18T06:53:23Z,MIT License
+neural-style,18304,2773,645,51,Lua,"['Lua', 'Shell']",169,2015-09-01T04:55:14Z,MIT License
+Recoil,18262,1053,215,993,JavaScript,"['JavaScript', 'TypeScript', 'HTML', 'CSS']",924,2020-05-04T19:44:15Z,MIT License
+notepad-plus-plus,18232,3952,623,3281,C++,"['C++', 'HTML', 'C', 'Objective-C++', 'Python', 'Makefile', 'NSIS', 'PostScript', 'Batchfile', 'Objective-C']",5014,2015-03-28T00:05:08Z,Other
+30-Days-Of-Python,18219,4134,619,219,Python,"['Python', 'CSS', 'HTML', 'Procfile']",390,2019-11-19T17:24:16Z,
+Awesome-CV,18202,4270,210,187,TeX,"['TeX', 'Makefile']",242,2015-01-18T08:42:23Z,LaTeX Project Public License v1.3c
+squoosh,18202,1256,236,761,TypeScript,"['TypeScript', 'JavaScript', 'C++', 'CSS', 'Rust', 'Makefile', 'HTML', 'EJS', 'Dockerfile', 'Shell']",1434,2018-03-07T22:42:03Z,Apache License 2.0
+GSYVideoPlayer,18201,3988,427,55,Java,"['Java', 'Shell']",1462,2016-11-13T12:34:31Z,Apache License 2.0
+CodeIgniter,18188,7728,1558,2913,PHP,"['PHP', 'HTML', 'Python', 'JavaScript', 'Makefile', 'CSS', 'Shell']",10336,2011-08-19T13:34:00Z,MIT License
+kibana,18170,7561,842,97913,TypeScript,"['TypeScript', 'JavaScript', 'SCSS', 'Shell', 'CSS', 'Groovy', 'Starlark', 'EJS', 'ANTLR', 'Dockerfile']",59953,2013-01-26T04:00:59Z,Other
+functional-programming-jargon,18169,1011,369,166,,,288,2015-02-22T16:04:42Z,MIT License
+fingerprintjs,18169,2051,411,284,TypeScript,"['TypeScript', 'HTML']",729,2015-02-11T08:49:54Z,MIT License
+cool-retro-term,18158,757,305,196,QML,"['QML', 'C++', 'JavaScript', 'Roff', 'QMake', 'Makefile']",787,2013-11-22T09:59:57Z,
+crystal,18152,1384,411,6161,Crystal,"['Crystal', 'JavaScript', 'Shell', 'HTML', 'C++', 'CSS', 'PowerShell', 'Makefile', 'Nix', 'Python']",14340,2012-11-27T17:32:32Z,Apache License 2.0
+.tmux,18149,3020,253,69,,,302,2012-08-23T13:26:29Z,MIT License
+magenta,18137,3699,781,1125,Python,"['Python', 'Shell']",1419,2016-05-05T20:10:40Z,Apache License 2.0
+outline,18119,1518,142,1720,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'Shell', 'Dockerfile', 'Makefile', 'Procfile']",4792,2016-05-22T21:31:47Z,Other
+graal,18105,1461,471,2265,Java,"['Java', 'C', 'Python', 'WebAssembly', 'C++', 'JavaScript', 'Jsonnet', 'LLVM', 'CMake', 'TypeScript']",71266,2016-01-14T17:11:35Z,Other
+maui,18101,1180,669,4426,C#,"['C#', 'PowerShell', 'Java', 'Shell', 'HTML', 'CSS', 'JavaScript', 'Batchfile', 'Makefile']",12242,2020-05-08T18:11:05Z,MIT License
+mybatis-3,18097,12054,1177,1543,Java,"['Java', 'CSS', 'TSQL', 'PLpgSQL']",4430,2013-02-14T19:03:32Z,Apache License 2.0
+loki,18093,2465,341,4824,Go,"['Go', 'Jsonnet', 'Makefile', 'Ruby', 'Shell', 'Smarty', 'HCL', 'Yacc', 'Dockerfile', 'Python']",4494,2018-04-16T09:22:48Z,GNU Affero General Public License v3.0
+advanced-go-programming-book,18080,3098,556,374,Handlebars,"['Handlebars', 'JavaScript', 'Go', 'Makefile', 'CSS', 'Assembly']",1557,2017-12-31T10:59:21Z,"BSD 2-Clause ""Simplified"" License"
+Masonry,18037,3172,727,140,Objective-C,"['Objective-C', 'Ruby', 'Shell']",406,2013-07-22T01:15:48Z,MIT License
+CS-Interview-Knowledge-Map,18035,2603,701,96,,,630,2018-03-19T02:38:12Z,
+mux,18034,1680,313,287,Go,['Go'],294,2012-10-02T21:32:24Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+weex,18031,2169,1749,1396,C++,"['C++', 'JavaScript', 'Java', 'C', 'Objective-C', 'Objective-C++', 'Vue', 'CMake', 'Python', 'Shell']",12043,2016-03-11T10:18:11Z,Apache License 2.0
+FlutterExampleApps,17987,3508,933,32,Dart,['Dart'],52,2018-04-13T10:47:06Z,
+dash,17960,1834,411,882,Python,"['Python', 'TypeScript', 'HTML', 'JavaScript', 'Less', 'CSS', 'Shell']",6521,2015-04-10T01:53:08Z,MIT License
+You-Dont-Need-JavaScript,17944,1073,391,95,CSS,['CSS'],137,2016-07-05T07:30:42Z,Other
+rough,17923,576,161,77,HTML,"['HTML', 'TypeScript', 'JavaScript']",447,2016-12-13T09:12:55Z,MIT License
+spaceship-prompt,17916,951,98,586,Shell,"['Shell', 'Makefile', 'Dockerfile']",1826,2016-01-30T13:50:02Z,MIT License
+toml,17909,870,329,438,,,847,2013-02-24T03:03:57Z,MIT License
+livewire,17871,976,200,1128,Blade,"['Blade', 'PHP', 'JavaScript']",3033,2019-02-12T16:53:29Z,MIT License
+zap,17871,1266,249,591,Go,"['Go', 'Makefile', 'Shell']",582,2016-02-18T19:52:56Z,MIT License
+shardingsphere,17870,6146,1025,14918,Java,"['Java', 'ANTLR', 'FreeMarker', 'Shell', 'Dockerfile', 'Batchfile']",37427,2016-01-18T12:49:26Z,Apache License 2.0
+core-js,17869,1357,232,290,JavaScript,"['JavaScript', 'HTML']",4958,2013-07-17T16:32:27Z,MIT License
+mojs,17866,935,406,59,CoffeeScript,"['CoffeeScript', 'JavaScript', 'CSS', 'HTML']",1755,2014-06-26T08:49:14Z,MIT License
+nginx,17863,6140,978,79,C,"['C', 'Vim Script', 'XS', 'Perl', 'Makefile', 'C++']",7117,2015-06-23T10:26:27Z,
+saleor,17860,4876,387,7313,Python,"['Python', 'HTML', 'Dockerfile', 'Shell', 'Procfile']",20169,2013-02-12T16:46:39Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+corefx,17857,5211,1392,24927,,,4,2014-11-06T23:42:48Z,
+react-developer-roadmap,17835,1962,586,59,JavaScript,['JavaScript'],92,2018-06-16T13:40:50Z,Other
+learnopencv,17809,10903,865,510,Jupyter Notebook,"['Jupyter Notebook', 'Python', 'Java', 'C', 'C++', 'Cuda', 'Shell', 'CMake', 'Makefile', 'HTML']",2106,2015-02-17T08:00:51Z,
+ZeroNet,17775,2282,855,584,JavaScript,"['JavaScript', 'Python', 'CSS', 'CoffeeScript', 'HTML', 'Dockerfile', 'Batchfile']",4033,2015-01-12T00:41:38Z,Other
+llvm-project,17762,6661,583,272,,,449300,2016-12-07T09:39:33Z,Other
+uikit,17754,2338,668,563,HTML,"['HTML', 'SCSS', 'Less', 'JavaScript']",5744,2013-07-18T16:00:26Z,MIT License
+flexbox-layout,17741,1825,460,287,Kotlin,"['Kotlin', 'Java']",370,2016-05-04T08:11:22Z,Apache License 2.0
+HikariCP,17733,2677,724,389,Java,"['Java', 'Shell']",2829,2013-10-08T05:43:03Z,Apache License 2.0
+theia,17731,2301,292,5211,TypeScript,"['TypeScript', 'CSS', 'JavaScript', 'C', 'Shell', 'Dockerfile', 'HTML', 'Python', 'Batchfile']",6300,2017-02-24T14:42:05Z,Other
+novu,17710,1077,123,1688,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'Handlebars', 'Shell', 'Vue', 'Dockerfile', 'EJS']",7997,2021-08-26T15:22:44Z,MIT License
+Micro8,17708,6844,982,14,,,127,2019-02-18T08:30:52Z,
+swoole-src,17699,3196,849,1691,C++,"['C++', 'PHP', 'C', 'M4', 'Shell', 'CMake', 'PLpgSQL', 'Python', 'Go', 'Makefile']",12614,2012-07-21T13:49:59Z,Apache License 2.0
+tiptap,17697,1607,151,669,TypeScript,"['TypeScript', 'JavaScript', 'Shell']",5617,2018-08-20T19:58:58Z,MIT License
+pytorch-handbook,17690,5161,523,57,Jupyter Notebook,['Jupyter Notebook'],249,2018-12-03T02:57:04Z,
+cleave.js,17666,1661,190,198,JavaScript,"['JavaScript', 'HTML']",423,2016-05-18T12:45:03Z,Apache License 2.0
+iced,17658,776,188,625,Rust,"['Rust', 'GLSL']",2965,2019-07-15T22:34:46Z,MIT License
+sonic,17656,519,201,53,Rust,"['Rust', 'JavaScript', 'Shell', 'Dockerfile']",678,2019-02-26T13:16:58Z,Mozilla Public License 2.0
+litemall,17654,6888,735,169,Java,"['Java', 'JavaScript', 'Vue', 'SCSS', 'CSS', 'Shell', 'HTML', 'Dockerfile']",1173,2018-03-22T16:42:30Z,MIT License
+awesome-computer-vision,17652,3972,1186,91,,,206,2015-01-16T16:48:47Z,
+heroicons,17649,1157,160,104,JavaScript,['JavaScript'],161,2020-02-24T14:16:00Z,MIT License
+vue-admin-template,17647,6791,417,104,JavaScript,"['JavaScript', 'Vue', 'SCSS', 'HTML']",234,2017-06-26T05:41:14Z,MIT License
+vcpkg,17646,5048,422,14597,CMake,"['CMake', 'PowerShell', 'Shell', 'Python', 'Ruby', 'Qt Script', 'Nix', 'Batchfile']",18049,2016-09-15T16:40:50Z,Other
+vux,17633,3797,685,493,Vue,"['Vue', 'JavaScript', 'Less', 'CSS', 'HTML', 'Shell']",2624,2016-02-15T03:23:27Z,MIT License
+ant-design-vue,17630,3372,301,1282,Vue,"['Vue', 'Less', 'TypeScript', 'JavaScript', 'HTML', 'Shell']",4612,2017-09-20T06:04:01Z,Other
+mysql,17627,2507,502,391,JavaScript,['JavaScript'],1378,2010-07-29T14:58:13Z,MIT License
+v2ray,17604,14212,441,79,Shell,['Shell'],1,2017-11-18T12:52:18Z,
+awesome-pentest,17598,4134,1150,420,,,824,2014-08-03T23:13:53Z,
+Real-ESRGAN,17555,1876,183,54,Python,['Python'],137,2021-07-19T03:23:30Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+sqlitebrowser,17550,1937,507,513,C++,"['C++', 'C', 'SCSS', 'CMake', 'Shell', 'Yacc', 'Batchfile', 'LLVM', 'Python']",3797,2014-05-04T01:54:44Z,Other
+relay,17543,1775,350,2128,Rust,"['Rust', 'JavaScript', 'HTML', 'CSS', 'TypeScript', 'Shell', 'Python']",8702,2015-08-10T22:09:16Z,MIT License
+hhvm,17534,3031,1013,3276,C++,"['C++', 'Hack', 'OCaml', 'Rust', 'Python', 'C', 'PHP', 'CMake', 'Shell', 'Assembly']",54634,2010-01-02T01:17:06Z,Other
+zod,17530,592,44,459,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'Shell']",1710,2020-03-07T20:59:08Z,MIT License
+athena,17506,3758,645,0,,,308,2018-10-23T06:41:02Z,
+UTM,17496,1018,315,250,Swift,"['Swift', 'Objective-C', 'Python', 'C', 'Shell']",2691,2019-04-12T16:09:24Z,Apache License 2.0
+redux-thunk,17485,1068,175,121,TypeScript,"['TypeScript', 'JavaScript']",177,2015-07-13T13:33:08Z,MIT License
+cat,17481,5297,1147,1067,Java,"['Java', 'C', 'Less', 'C#', 'FreeMarker', 'Python', 'CMake', 'C++', 'Go', 'Erlang']",7410,2012-12-05T02:31:48Z,Apache License 2.0
+kitty,17467,788,170,1098,Python,"['Python', 'C', 'Go', 'Objective-C', 'Shell', 'GLSL', 'Nix', 'Makefile', 'Vim Script', 'Ruby']",11447,2016-10-16T14:48:28Z,GNU General Public License v3.0
+ice,17440,2077,449,3160,TypeScript,"['TypeScript', 'JavaScript', 'CSS', 'EJS', 'AppleScript', 'Shell']",2598,2016-11-03T06:59:15Z,MIT License
+radare2,17429,2810,481,12658,C,"['C', 'Makefile', 'C++', 'Shell', 'Meson', 'SourcePawn', 'HTML', 'Roff', 'Python', 'CSS']",29693,2012-07-03T07:42:26Z,GNU Lesser General Public License v3.0
+npm,17428,3226,865,2137,,,8342,2009-09-29T17:21:24Z,
+grpc-go,17421,3875,483,3819,Go,"['Go', 'Shell', 'Dockerfile', 'Makefile']",4397,2014-12-08T18:59:34Z,Apache License 2.0
+gotty,17418,1324,334,112,Go,"['Go', 'TypeScript', 'Makefile', 'CSS', 'JavaScript', 'HTML']",230,2015-08-16T09:48:33Z,MIT License
+handsontable,17415,2834,456,2092,JavaScript,"['JavaScript', 'TypeScript', 'SCSS', 'Vue', 'CSS', 'EJS']",7769,2011-05-23T22:38:58Z,Other
+flux,17399,3584,651,317,JavaScript,"['JavaScript', 'CSS']",494,2014-07-20T23:33:08Z,Other
+MagicMirror,17382,3959,647,1560,JavaScript,"['JavaScript', 'CSS', 'Nunjucks', 'HTML', 'TypeScript', 'Shell']",4697,2014-02-19T15:48:09Z,MIT License
+trix,17373,1059,255,266,JavaScript,"['JavaScript', 'SCSS', 'Ruby', 'HTML', 'Shell']",2904,2013-08-01T22:21:30Z,MIT License
+react-testing-library,17369,1035,144,446,JavaScript,"['JavaScript', 'TypeScript', 'Shell']",489,2018-03-19T13:39:49Z,MIT License
+awesome-dotnet-core,17339,2676,1143,747,C#,['C#'],1253,2016-03-17T03:52:09Z,
+textual,17338,506,153,681,Python,"['Python', 'Jinja', 'CSS', 'TypeScript', 'Makefile']",4385,2021-04-08T15:24:47Z,MIT License
+Inquirer.js,17318,1206,152,442,JavaScript,"['JavaScript', 'TypeScript']",1022,2013-05-17T01:41:36Z,MIT License
+motion,17315,541,94,721,TypeScript,"['TypeScript', 'HTML', 'JavaScript', 'Makefile', 'Dockerfile']",3995,2018-11-16T09:48:38Z,MIT License
+PythonRobotics,17305,5440,500,468,Python,"['Python', 'Shell']",1798,2016-03-21T09:34:43Z,Other
+CNTK,17295,4382,1275,557,C++,"['C++', 'Jupyter Notebook', 'Python', 'Cuda', 'C#', 'Shell', 'SWIG', 'Bikeshed', 'PowerShell', 'Makefile']",16117,2015-11-26T09:52:06Z,Other
+fks,17293,4629,1605,118,JavaScript,"['JavaScript', 'CSS', 'HTML', 'Makefile']",219,2012-10-17T05:55:16Z,
+daisyui,17276,695,123,161,Svelte,"['Svelte', 'CSS', 'JavaScript', 'HTML', 'Astro', 'Shell']",1896,2020-11-28T22:57:27Z,MIT License
+matomo,17239,2421,423,6754,PHP,"['PHP', 'HTML', 'JavaScript', 'Vue', 'Twig', 'TypeScript', 'Less', 'CSS', 'Perl', 'Shell']",28822,2011-03-30T21:18:17Z,GNU General Public License v3.0
+grapesjs,17223,3270,464,494,TypeScript,"['TypeScript', 'JavaScript', 'SCSS', 'HTML']",5240,2016-01-22T00:23:19Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+n,17217,733,204,264,Shell,"['Shell', 'Makefile']",770,2011-01-05T14:53:19Z,MIT License
+BoostNote-Legacy,17214,1541,315,1362,JavaScript,"['JavaScript', 'Stylus', 'HTML']",4730,2016-03-06T17:06:07Z,Other
+velocity,17202,1619,409,116,JavaScript,"['JavaScript', 'TypeScript', 'HTML', 'CSS']",895,2014-04-09T20:02:38Z,MIT License
+surrealdb,17170,413,130,140,Rust,"['Rust', 'Nix', 'Makefile', 'Dockerfile', 'HTML']",2014,2021-12-09T15:03:29Z,Other
+jina,17162,2015,185,3793,Python,"['Python', 'Shell', 'Dockerfile']",8155,2020-02-13T17:04:44Z,Apache License 2.0
+v86,17158,1217,358,147,Rust,"['Rust', 'JavaScript', 'C', 'WebAssembly', 'Assembly', 'HTML', 'C++', 'Makefile', 'Python', 'CSS']",4121,2013-11-06T00:12:12Z,"BSD 2-Clause ""Simplified"" License"
+Gooey,17144,931,271,287,Python,['Python'],743,2014-01-01T21:06:05Z,MIT License
+quick-look-plugins,17134,551,433,43,,,56,2013-12-07T15:43:33Z,
+dotfiles,17133,19741,37,111,Shell,['Shell'],319,2014-04-04T14:54:29Z,
+Data-Science-For-Beginners,17130,3260,361,343,Jupyter Notebook,"['Jupyter Notebook', 'Vue', 'HTML', 'JavaScript']",1325,2021-03-03T16:30:15Z,MIT License
+budibase,17128,1031,202,2528,TypeScript,"['TypeScript', 'Svelte', 'JavaScript', 'Shell', 'Handlebars', 'Dockerfile', 'CSS', 'HTML', 'Smarty', 'TSQL']",28418,2019-06-07T11:03:41Z,Other
+bokeh,17125,4020,452,5477,Python,"['Python', 'TypeScript', 'HTML', 'GLSL', 'Less', 'JavaScript', 'Shell', 'Dockerfile', 'CSS']",19919,2012-03-26T15:40:01Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+semantic-release,17118,1649,49,1054,JavaScript,['JavaScript'],1114,2014-09-15T16:18:28Z,
+ethereumbook,17116,4233,579,825,JavaScript,"['JavaScript', 'Vue', 'Solidity', 'HTML', 'Jupyter Notebook', 'Python', 'CSS', 'Go', 'Shell']",3209,2016-08-10T15:07:54Z,Other
+kuboard-press,17096,1276,200,22,JavaScript,"['JavaScript', 'HTML', 'Vue', 'Shell', 'CSS', 'SCSS', 'Less', 'Stylus', 'Dockerfile', 'Ruby']",946,2019-07-24T16:45:29Z,
+dropzone,17091,3328,404,250,JavaScript,"['JavaScript', 'SCSS', 'HTML']",1100,2012-02-12T16:19:18Z,Other
+neofetch,17082,1284,212,1185,Shell,"['Shell', 'Roff', 'Makefile']",5274,2015-12-30T10:19:46Z,MIT License
+trojan,17071,2888,501,80,C++,"['C++', 'CMake', 'Shell', 'Python', 'Dockerfile']",466,2017-10-21T16:07:42Z,GNU General Public License v3.0
+awesome-blockchain-cn,17070,3538,1028,25,JavaScript,['JavaScript'],72,2017-03-12T06:02:46Z,Apache License 2.0
+ToolJet,17069,1485,135,3005,JavaScript,"['JavaScript', 'TypeScript', 'SCSS', 'HTML', 'Shell', 'EJS', 'Dockerfile', 'HCL', 'Procfile', 'Batchfile']",3898,2021-03-30T08:51:34Z,GNU Affero General Public License v3.0
+SpringCloudLearning,17066,8047,834,13,Java,"['Java', 'Dockerfile']",72,2017-04-08T10:06:56Z,
+fastbook,17064,6488,488,355,Jupyter Notebook,"['Jupyter Notebook', 'Python']",488,2020-02-28T19:26:47Z,Other
+zulip,17054,5879,375,16393,Python,"['Python', 'JavaScript', 'HTML', 'CSS', 'Handlebars', 'TypeScript', 'Shell', 'Puppet', 'Perl', 'Dockerfile']",49696,2015-09-25T16:37:25Z,Apache License 2.0
+Cloudreve,17045,2932,226,133,Go,"['Go', 'Shell', 'Dockerfile']",840,2018-02-04T04:56:38Z,GNU General Public License v3.0
+vim-airline,17044,1126,231,839,Vim Script,['Vim Script'],2727,2013-06-30T18:49:56Z,MIT License
+vim-fugitive,17039,973,224,386,Vim Script,['Vim Script'],2103,2009-10-09T01:09:49Z,
+framework7,17034,3280,690,683,JavaScript,"['JavaScript', 'Vue', 'Svelte', 'HTML', 'Less', 'CSS', 'Python']",6685,2014-02-23T12:15:53Z,MIT License
+react-native-guide,17031,3805,1033,57,,,157,2015-04-10T03:34:17Z,
+react-grid-layout,17023,2304,225,399,JavaScript,"['JavaScript', 'CSS', 'Makefile', 'HTML', 'Shell']",715,2014-12-27T14:28:40Z,MIT License
+WordPress,17021,11958,1432,611,PHP,"['PHP', 'JavaScript', 'CSS', 'SCSS', 'HTML']",46973,2011-12-01T07:05:17Z,Other
+knex,17006,1998,205,1961,JavaScript,"['JavaScript', 'TypeScript', 'Shell']",2985,2012-12-29T05:18:25Z,MIT License
+jaeger,17001,2039,339,2249,Go,"['Go', 'Shell', 'Makefile', 'Python', 'Jsonnet', 'Dockerfile', 'HTML', 'JavaScript', 'sed']",1912,2016-04-15T18:49:02Z,Apache License 2.0
+awesome-chatgpt-prompts,16991,1439,275,201,HTML,['HTML'],285,2022-12-05T13:54:13Z,Creative Commons Zero v1.0 Universal
+alist,16989,2419,101,246,Go,"['Go', 'Shell', 'Makefile', 'Dockerfile']",1272,2020-12-23T17:40:29Z,GNU Affero General Public License v3.0
+Scoop,16982,1302,248,2565,PowerShell,"['PowerShell', 'C#', 'Makefile']",10148,2013-05-11T03:52:15Z,Other
+mantine,16968,1170,82,1019,TypeScript,"['TypeScript', 'JavaScript', 'Shell']",9445,2021-01-07T14:02:19Z,MIT License
+MS-DOS,16962,2617,577,370,Assembly,['Assembly'],96,2018-06-25T18:26:02Z,Other
+handlebars.js,16957,2081,455,522,JavaScript,"['JavaScript', 'HTML', 'TypeScript', 'Shell', 'Ruby', 'Handlebars', 'Mustache']",2025,2010-07-31T18:54:46Z,MIT License
+roslyn,16943,3800,1035,35201,C#,"['C#', 'Visual Basic .NET', 'PowerShell', '1C Enterprise', 'Shell', 'CMake', 'Batchfile', 'Vim Snippet', 'C++', 'F#']",94443,2015-01-11T02:39:03Z,MIT License
+SwiftLint,16939,2037,250,2496,Swift,"['Swift', 'Starlark', 'Ruby', 'Makefile', 'Shell', 'HTML', 'Dockerfile']",6069,2015-05-16T16:59:31Z,MIT License
+tfjs,16937,1795,324,3594,TypeScript,"['TypeScript', 'JavaScript', 'C++', 'Python', 'Starlark', 'HTML', 'Shell', 'CSS', 'Objective-C', 'Java']",5755,2018-03-05T05:41:02Z,Apache License 2.0
+Mindustry,16928,2347,557,4541,Java,"['Java', 'GLSL', 'JavaScript', 'Shell', 'Ruby', 'Batchfile']",16050,2017-04-30T01:24:29Z,GNU General Public License v3.0
+fresco,16898,3778,872,410,Java,"['Java', 'Kotlin', 'C++', 'C', 'Makefile', 'Python', 'Shell']",3436,2015-03-02T09:58:04Z,MIT License
+less.js,16884,3465,664,936,JavaScript,"['JavaScript', 'Less', 'CSS', 'HTML', 'TypeScript']",2968,2010-02-20T17:25:38Z,Apache License 2.0
+proxy_pool,16883,4435,444,168,Python,"['Python', 'Dockerfile', 'Shell']",626,2016-11-25T13:49:07Z,MIT License
+TeachYourselfCS-CN,16866,3051,393,11,,,32,2019-10-04T08:53:38Z,Creative Commons Attribution Share Alike 4.0 International
+wechat-app-mall,16854,5892,897,75,JavaScript,['JavaScript'],595,2017-03-30T09:16:15Z,Apache License 2.0
+statsd,16849,1988,457,459,JavaScript,"['JavaScript', 'Shell', 'Perl', 'Dockerfile', 'Procfile']",1021,2010-12-30T00:09:50Z,MIT License
+ILSpy,16823,3038,695,639,C#,"['C#', 'PowerShell', 'Jupyter Notebook', 'Visual Basic .NET', 'F#', 'Batchfile', 'Shell']",7306,2011-02-04T11:24:20Z,
+awesome-tensorflow,16821,3071,959,174,,,293,2016-02-27T17:00:27Z,Creative Commons Zero v1.0 Universal
+EasyOCR,16814,2432,283,199,Python,"['Python', 'C++', 'Cuda', 'Jupyter Notebook', 'C', 'Ruby', 'Dockerfile', 'Shell']",569,2020-03-14T11:46:39Z,Apache License 2.0
+Android-Universal-Image-Loader,16811,6229,1342,152,Java,['Java'],1038,2011-11-27T18:48:23Z,Apache License 2.0
+web3.js,16810,4364,444,2133,JavaScript,"['JavaScript', 'TypeScript', 'Shell', 'Solidity', 'HTML', 'Makefile']",3378,2014-09-30T20:50:37Z,Other
+gun,16809,1134,324,551,JavaScript,"['JavaScript', 'HTML', 'TypeScript', 'CSS', 'Dockerfile', 'Shell', 'Procfile']",2454,2014-07-31T15:52:10Z,Other
+jquery-pjax,16799,2056,560,280,JavaScript,"['JavaScript', 'HTML', 'Ruby', 'Shell']",508,2011-02-26T02:44:18Z,MIT License
+cocos2d-x,16792,7066,1251,15801,C++,"['C++', 'Lua', 'C', 'Objective-C++', 'Java', 'Python', 'Objective-C', 'CMake', 'GLSL', 'PLSQL']",37358,2010-11-18T23:17:00Z,
+learngo,16786,2215,318,108,Go,"['Go', 'Makefile', 'HTML']",526,2018-10-15T11:12:00Z,Other
+sanic,16756,1489,413,1406,Python,"['Python', 'Makefile', 'HTML', 'Go', 'Dockerfile']",2749,2016-05-26T04:38:22Z,MIT License
+goreplay,16756,1696,474,425,Go,"['Go', 'JavaScript', 'HTML', 'CSS', 'Makefile', 'Ruby', 'Dockerfile', 'Procfile']",1302,2013-05-30T09:29:07Z,Other
+prisma1,16755,914,95,1704,Scala,"['Scala', 'TypeScript', 'Shell', 'Java', 'JavaScript', 'HTML', 'Makefile', 'EJS']",12493,2016-09-25T12:54:40Z,Apache License 2.0
+react-helmet,16751,707,117,310,JavaScript,['JavaScript'],349,2015-06-18T00:07:34Z,MIT License
+matplotlib,16739,6690,590,15811,Python,"['Python', 'C++', 'Jupyter Notebook', 'Objective-C', 'JavaScript', 'C', 'CSS', 'HTML', 'Shell', 'PostScript']",45653,2011-02-19T03:17:12Z,
+UnblockNeteaseMusic,16732,2535,241,45,JavaScript,"['JavaScript', 'Dockerfile', 'HTML']",413,2018-06-19T21:18:41Z,MIT License
+material,16720,3525,719,3084,JavaScript,"['JavaScript', 'SCSS', 'HTML', 'CSS', 'Shell', 'PHP']",4949,2014-07-01T19:20:06Z,MIT License
+spdlog,16719,3542,431,716,C++,"['C++', 'CMake', 'C', 'Shell', 'Python']",4114,2014-11-01T01:28:53Z,Other
+nginx-proxy,16702,2853,278,561,Python,"['Python', 'Shell', 'Dockerfile', 'Makefile', 'Procfile']",927,2014-05-05T17:01:40Z,MIT License
+diem,16698,2593,541,9296,Rust,"['Rust', 'JavaScript', 'SMT', 'CSS', 'Shell', 'TeX', 'Boogie', 'Dockerfile', 'Python', 'Java']",9768,2019-04-02T21:51:45Z,Apache License 2.0
+Tvlist-awesome-m3u-m3u8,16677,2400,423,6,,,49,2017-02-18T03:59:25Z,
+lazysizes,16676,1760,285,135,JavaScript,"['JavaScript', 'HTML', 'CSS']",854,2014-10-11T21:03:26Z,MIT License
+plugins,16674,9872,515,6994,Dart,"['Dart', 'Java', 'Objective-C', 'C++', 'CMake', 'Swift', 'Ruby', 'C', 'HTML', 'Shell']",4444,2017-04-18T17:02:37Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+open-source-cs,16671,2828,1050,21,,,16,2019-01-19T04:11:33Z,MIT License
+tinker,16661,3328,707,151,Java,"['Java', 'Groovy', 'Python', 'Shell', 'AIDL']",815,2016-09-06T06:57:52Z,Other
+websocketd,16660,996,367,112,Go,"['Go', 'Makefile', 'Roff']",318,2013-02-14T14:52:55Z,"BSD 2-Clause ""Simplified"" License"
+mimikatz,16645,3225,904,53,C,"['C', 'YARA', 'Batchfile']",337,2014-04-06T18:30:02Z,
+dragonfly,16644,551,125,367,C++,"['C++', 'C', 'Python', 'CMake', 'Shell', 'Smarty', 'Dockerfile', 'Makefile']",678,2021-12-11T10:00:42Z,Other
+bubbletea,16637,514,99,366,Go,['Go'],691,2020-01-10T21:04:03Z,MIT License
+mars,16631,3529,789,121,C++,"['C++', 'C', 'PHP', 'Assembly', 'Python', 'Java', 'Shell', 'HTML', 'CMake', 'Objective-C']",1671,2016-12-12T04:39:54Z,Other
+Best-Flutter-UI-Templates,16605,3843,508,33,Dart,"['Dart', 'Swift', 'Kotlin', 'Objective-C']",111,2019-09-02T08:36:18Z,Other
+ddia,16602,3622,359,219,Python,"['Python', 'HTML', 'Shell', 'Makefile']",717,2018-02-08T04:26:52Z,Creative Commons Attribution 4.0 International
+ionicons,16598,2062,406,200,TypeScript,"['TypeScript', 'HTML', 'CSS', 'JavaScript']",563,2013-10-10T14:34:18Z,MIT License
+Avalonia,16596,1452,450,3911,C#,"['C#', 'Objective-C++', 'TypeScript', 'Objective-C', 'C++', 'PowerShell', 'Shell', 'C', 'JavaScript', 'HTML']",22723,2013-12-05T20:13:21Z,MIT License
+leetcode,16596,4803,1000,222,C++,"['C++', 'Java', 'Python', 'Shell', 'Go']",788,2014-10-20T03:22:04Z,
+material-components-web,16595,2207,389,4870,TypeScript,"['TypeScript', 'SCSS', 'JavaScript', 'Shell']",7296,2016-12-05T16:04:09Z,MIT License
+draggable,16595,1063,608,258,JavaScript,['JavaScript'],388,2017-09-27T15:31:23Z,MIT License
+pytorch_geometric,16584,3032,251,1540,Python,"['Python', 'Shell', 'Jinja', 'Dockerfile']",6230,2017-10-06T16:03:03Z,MIT License
+css-modules,16576,557,222,47,,,69,2015-05-25T21:54:47Z,
+visx,16575,650,153,685,TypeScript,"['TypeScript', 'CSS', 'JavaScript', 'HTML']",3134,2017-03-15T16:25:41Z,MIT License
+hosts,16574,7631,1859,470,Rascal,"['Rascal', 'Shell']",1260,2014-07-04T01:05:27Z,MIT License
+dotenv,16568,827,111,286,JavaScript,"['JavaScript', 'Shell', 'TypeScript']",500,2013-07-05T18:25:05Z,"BSD 2-Clause ""Simplified"" License"
+xbar,16563,643,178,222,Go,"['Go', 'Objective-C', 'HTML', 'Svelte', 'JavaScript', 'Shell', 'CSS', 'Makefile']",1038,2013-11-13T21:00:12Z,MIT License
+mint-ui,16550,3558,478,407,Vue,"['Vue', 'JavaScript', 'CSS', 'Makefile', 'Smarty', 'Shell']",304,2016-05-17T09:54:10Z,MIT License
+podman,16550,1778,196,9811,Go,"['Go', 'Shell', 'Perl', 'Python', 'C', 'Makefile', 'PowerShell', 'Dockerfile', 'Ruby', 'Batchfile']",17754,2017-11-01T15:01:27Z,Apache License 2.0
+desktop,16548,8706,1791,5105,TypeScript,"['TypeScript', 'SCSS', 'JavaScript', 'CSS', 'Shell', 'PowerShell', 'HTML', 'Batchfile']",33489,2016-05-11T15:59:00Z,MIT License
+asdf,16543,634,117,689,Shell,"['Shell', 'Nu', 'Elvish', 'Python']",1565,2014-11-29T04:41:43Z,MIT License
+annotated_deep_learning_paper_implementations,16500,1808,271,77,Jupyter Notebook,"['Jupyter Notebook', 'Python', 'Makefile']",688,2020-08-25T02:29:34Z,MIT License
+vant-weapp,16495,3429,441,1746,JavaScript,"['JavaScript', 'TypeScript', 'Less', 'Shell']",2553,2017-01-23T07:05:54Z,MIT License
+react-loadable,16479,850,144,239,JavaScript,['JavaScript'],220,2017-03-09T18:41:17Z,MIT License
+node-lessons,16467,4818,1122,45,JavaScript,"['JavaScript', 'Makefile']",258,2014-10-05T09:57:08Z,
+typeahead.js,16467,3266,564,474,JavaScript,"['JavaScript', 'HTML', 'Shell']",594,2013-02-19T19:45:01Z,MIT License
+OnJava8,16463,5495,630,468,,,1335,2018-11-20T05:41:18Z,MIT License
+sunflower,16461,4344,506,580,Kotlin,['Kotlin'],515,2018-05-23T03:02:28Z,Apache License 2.0
+hashcat,16452,2461,488,1754,C,"['C', 'Perl', 'Shell', 'Python', 'Objective-C', 'Makefile', 'C++', 'Batchfile']",8942,2015-12-04T14:46:51Z,
+openvpn-install,16447,4407,529,174,Shell,['Shell'],185,2013-05-14T12:03:29Z,MIT License
+medusa,16439,1090,130,2173,TypeScript,"['TypeScript', 'JavaScript', 'CSS', 'Shell']",2892,2020-01-18T13:39:04Z,MIT License
+zheng,16439,7463,1470,135,Java,"['Java', 'CSS', 'JavaScript', 'HTML', 'Shell', 'Batchfile']",1241,2016-10-04T10:07:06Z,MIT License
+bcc,16428,3265,555,2782,C,"['C', 'Python', 'C++', 'Lua', 'CMake', 'Shell', 'Makefile', 'HTML']",4502,2015-05-01T19:52:32Z,Apache License 2.0
+CnC_Remastered_Collection,16412,4318,509,23,C++,"['C++', 'C#', 'C', 'Assembly', 'Python', 'Objective-C']",12,2020-03-30T17:48:04Z,Other
+simdjson,16409,889,235,1150,C++,"['C++', 'CMake', 'C', 'Python', 'Shell', 'Ruby', 'JavaScript', 'Makefile', 'Dockerfile']",2454,2018-03-23T00:49:18Z,Apache License 2.0
+actix-web,16408,1483,223,1221,Rust,"['Rust', 'Shell', 'JavaScript']",4226,2017-09-30T15:30:02Z,Apache License 2.0
+download,16398,3057,1075,5,,,36,2018-06-26T23:52:16Z,
+lihang-code,16394,5934,529,17,Jupyter Notebook,['Jupyter Notebook'],45,2018-11-26T15:48:58Z,
+seaweedfs,16390,1916,520,1482,Go,"['Go', 'Java', 'HTML', 'Makefile', 'Smarty', 'Shell', 'Lua', 'Dockerfile']",9159,2014-07-14T16:41:37Z,Apache License 2.0
+react-native-vector-icons,16377,2089,211,339,JavaScript,"['JavaScript', 'Shell', 'Java', 'Objective-C', 'CSS', 'Ruby', 'Smarty', 'HTML']",584,2015-05-15T16:38:57Z,MIT License
+bulletproof-react,16373,1447,157,50,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'Handlebars', 'CSS', 'Shell']",160,2021-05-30T14:47:16Z,MIT License
+proposals,16363,720,2174,360,,,873,2016-05-11T23:41:28Z,
+hubot,16355,3903,609,759,JavaScript,"['JavaScript', 'Shell', 'CoffeeScript']",2068,2011-08-27T08:30:59Z,MIT License
+TrackersListCollection,16355,1304,242,7,,,2983,2019-10-03T15:55:07Z,GNU General Public License v3.0
+spacedrive,16331,433,147,343,Rust,"['Rust', 'TypeScript', 'JavaScript', 'Java', 'CSS', 'SCSS', 'Swift', 'C++', 'Objective-C++', 'Objective-C']",1308,2021-09-27T05:09:04Z,GNU Affero General Public License v3.0
+classnames,16325,566,130,144,JavaScript,"['JavaScript', 'TypeScript', 'HTML']",327,2014-11-05T00:44:31Z,MIT License
+deep-learning-with-python-notebooks,16311,7969,647,51,Jupyter Notebook,['Jupyter Notebook'],42,2017-09-05T19:47:56Z,MIT License
+Best-App,16292,1857,1263,56,,,286,2013-08-30T14:32:19Z,
+coffeescript,16288,2032,521,1236,CoffeeScript,"['CoffeeScript', 'JavaScript']",4904,2009-12-18T01:39:53Z,MIT License
+ncnn,16284,3705,583,1569,C++,"['C++', 'C', 'GLSL', 'Python', 'CMake', 'Shell', 'Batchfile', 'SWIG']",2813,2017-06-30T10:55:37Z,Other
+CodeEdit,16279,778,196,577,Swift,"['Swift', 'PHP', 'Ruby', 'C']",1676,2022-03-10T21:28:14Z,MIT License
+iview-admin,16278,4913,632,211,Vue,"['Vue', 'JavaScript', 'CSS', 'HTML']",462,2017-09-15T10:34:27Z,MIT License
+awesome-github-profile-readme,16275,2899,127,897,,,701,2020-07-12T12:57:25Z,Creative Commons Zero v1.0 Universal
+TensorFlow-Course,16266,3247,822,27,Jupyter Notebook,"['Jupyter Notebook', 'Python', 'Shell']",227,2018-10-02T18:10:12Z,MIT License
+bit,16265,893,183,5096,TypeScript,"['TypeScript', 'JavaScript', 'SCSS', 'Shell', 'PowerShell', 'CSS', 'Ruby', 'Dockerfile', 'Batchfile', 'Stylus']",11247,2017-01-22T14:51:43Z,Other
+gpt-2,16262,4090,587,69,Python,['Python'],57,2019-02-11T04:21:59Z,Other
+luigi,16258,2353,483,2261,Python,"['Python', 'JavaScript', 'HTML', 'CSS', 'Shell']",4069,2012-09-20T15:06:38Z,Apache License 2.0
+redis,16255,1959,250,1130,Go,"['Go', 'Shell', 'Makefile']",2271,2012-07-25T13:01:39Z,"BSD 2-Clause ""Simplified"" License"
+vue-manage-system,16255,5515,566,64,Vue,"['Vue', 'TypeScript', 'CSS', 'HTML']",232,2016-11-30T06:34:40Z,MIT License
+plaid,16254,3238,635,506,Kotlin,"['Kotlin', 'Java', 'HTML', 'Shell']",1277,2015-10-30T16:10:56Z,Apache License 2.0
+superagent,16227,1339,226,656,JavaScript,"['JavaScript', 'HTML', 'Makefile', 'Shell']",1851,2011-04-13T02:29:45Z,MIT License
+d2l-en,16188,3497,354,2078,Python,"['Python', 'TeX', 'HTML', 'Shell', 'CSS']",6274,2018-10-09T01:04:37Z,Other
+nx,16187,1609,147,7520,TypeScript,"['TypeScript', 'JavaScript', 'CSS', 'Shell', 'C++', 'HTML', 'Objective-C', 'Ruby', 'Starlark']",7841,2017-08-11T18:50:23Z,MIT License
+delta,16183,275,68,662,Rust,"['Rust', 'Shell', 'Makefile', 'Ruby', 'Dockerfile', 'Python']",1908,2019-06-24T15:00:13Z,MIT License
+zsh-syntax-highlighting,16178,1248,134,250,Shell,"['Shell', 'Perl', 'Makefile']",1316,2010-12-25T17:28:55Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+KaTeX,16163,1101,280,2064,JavaScript,"['JavaScript', 'Perl', 'HTML', 'Less', 'Python', 'CSS', 'Shell', 'Makefile', 'Dockerfile', 'TeX']",2106,2013-07-05T09:01:54Z,MIT License
+ruby-style-guide,16153,3442,536,587,,,992,2011-09-12T13:03:05Z,
+diff-so-fancy,16146,342,117,191,Perl,"['Perl', 'Shell']",652,2016-02-04T11:32:08Z,MIT License
+node-jsonwebtoken,16135,1179,266,265,JavaScript,['JavaScript'],444,2013-07-01T01:28:43Z,MIT License
+java8-tutorial,16119,3958,1008,47,Java,"['Java', 'JavaScript']",149,2014-03-16T17:25:43Z,MIT License
+data-science,16115,2812,940,44,,,100,2016-06-19T15:15:36Z,Other
+dva,16113,3218,445,347,JavaScript,['JavaScript'],752,2016-06-24T09:06:16Z,MIT License
+Kap,16107,797,179,415,TypeScript,"['TypeScript', 'JavaScript']",905,2016-08-10T19:37:08Z,MIT License
+Ryujinx,16105,1796,289,2646,C#,"['C#', 'Smalltalk', 'Python', 'GLSL', 'Shell', 'C', 'Makefile']",2573,2018-02-04T23:07:54Z,MIT License
+fonts,16102,2487,443,3195,HTML,"['HTML', 'Python', 'Shell']",4644,2015-02-11T23:34:54Z,
+git-extras,16099,1212,222,642,Shell,"['Shell', 'Batchfile', 'Makefile']",1697,2010-08-04T16:32:07Z,MIT License
+golang-developer-roadmap,16098,2003,401,58,,,131,2019-04-15T10:14:22Z,
+Catch2,16084,2754,448,891,C++,"['C++', 'CMake', 'Python', 'Meson', 'Starlark', 'Batchfile', 'Shell', 'PowerShell']",4221,2010-11-08T18:22:56Z,Boost Software License 1.0
+react-demos,16077,6575,1087,52,JavaScript,"['JavaScript', 'HTML']",97,2015-03-23T10:50:07Z,
+Bilibili-Evolved,16069,1359,104,271,TypeScript,"['TypeScript', 'Vue', 'CSS', 'SCSS', 'JavaScript']",7050,2018-07-16T07:48:06Z,Other
+fmt,16056,1950,318,1143,C++,"['C++', 'Python', 'CMake', 'Shell', 'Cuda', 'Starlark', 'HTML', 'Makefile']",6043,2012-12-07T16:26:46Z,Other
+netlify-cms,16046,2913,267,3892,JavaScript,"['JavaScript', 'TypeScript', 'HTML', 'Shell', 'CSS']",4088,2015-01-20T05:47:47Z,MIT License
+Carbon,16037,1236,231,1557,PHP,"['PHP', 'Batchfile']",3419,2012-09-08T02:56:20Z,MIT License
+nndl.github.io,16027,3500,758,14,HTML,['HTML'],317,2016-09-06T08:09:06Z,
+parallax,16013,2165,549,43,JavaScript,['JavaScript'],167,2013-08-01T15:28:05Z,Other
+data,16011,10874,1302,114,Jupyter Notebook,"['Jupyter Notebook', 'R', 'Python']",1379,2014-03-17T13:49:17Z,Creative Commons Attribution 4.0 International
+slim,15997,603,173,163,Go,"['Go', 'Shell', 'Makefile', 'Dockerfile']",843,2015-09-09T17:39:11Z,Apache License 2.0
+LeetcodeTop,15993,2492,284,9,,,115,2020-07-01T04:47:22Z,
+interview,15986,3539,772,66,,,136,2014-01-29T04:05:28Z,Do What The F*ck You Want To Public License
+Functional-Light-JS,15979,1935,470,89,JavaScript,"['JavaScript', 'HTML', 'CSS']",488,2016-08-17T01:40:50Z,Other
+MBProgressHUD,15977,3512,566,227,Objective-C,"['Objective-C', 'Ruby', 'Swift']",683,2009-05-31T21:45:41Z,MIT License
+awesome-dotnet,15969,2462,1106,1045,,,1567,2014-07-16T09:32:12Z,Creative Commons Zero v1.0 Universal
+Become-A-Full-Stack-Web-Developer,15967,2631,841,68,,,53,2017-03-16T17:51:51Z,MIT License
+DeOldify,15961,2310,434,111,Python,"['Python', 'Jupyter Notebook', 'Cuda', 'C++', 'Smarty']",503,2018-10-31T23:32:34Z,MIT License
+emotion,15942,1060,100,1320,JavaScript,"['JavaScript', 'TypeScript', 'HTML', 'Shell']",1750,2017-05-27T04:23:45Z,MIT License
+anko,15941,1302,541,149,Kotlin,"['Kotlin', 'Java', 'HTML']",1064,2014-09-18T12:12:23Z,Apache License 2.0
+zipkin,15936,3022,701,2175,Java,"['Java', 'TypeScript', 'JavaScript', 'Shell', 'Dockerfile', 'Smarty', 'HTML', 'CSS']",2715,2012-06-06T18:26:16Z,Apache License 2.0
+IQKeyboardManager,15935,2352,362,189,Swift,"['Swift', 'Objective-C', 'C', 'Ruby']",1217,2013-08-25T11:32:48Z,MIT License
+fx,15928,444,125,69,Go,"['Go', 'JavaScript', 'Python', 'Ruby']",347,2018-01-25T17:29:43Z,MIT License
+30-seconds-of-css,15923,1073,331,164,CSS,['CSS'],676,2018-02-25T13:22:25Z,Creative Commons Attribution 4.0 International
+PHP-Parser,15914,909,228,371,PHP,"['PHP', 'Yacc', 'Shell']",1423,2011-04-18T17:03:47Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+better-scroll,15911,2599,258,208,TypeScript,"['TypeScript', 'Vue', 'JavaScript', 'Stylus', 'CSS', 'HTML', 'Shell']",1990,2015-12-18T03:22:16Z,MIT License
+Dive-into-DL-PyTorch,15910,5061,391,39,Jupyter Notebook,"['Jupyter Notebook', 'Python', 'Dockerfile']",241,2019-02-21T03:45:20Z,Apache License 2.0
+node-red,15897,2971,529,1867,JavaScript,"['JavaScript', 'HTML', 'Shell', 'CSS']",7942,2013-09-05T13:30:47Z,Apache License 2.0
+appium,15894,5786,891,4682,JavaScript,"['JavaScript', 'TypeScript', 'HTML', 'Shell', 'Handlebars', 'Python', 'Ruby', 'CSS']",9541,2013-01-09T22:49:50Z,Apache License 2.0
+ungoogled-chromium,15888,729,286,418,Python,"['Python', 'Shell']",2031,2015-06-12T22:24:24Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+fullcalendar,15869,3462,457,574,TypeScript,"['TypeScript', 'HTML', 'CSS', 'JavaScript', 'PHP', 'Smarty']",6239,2009-11-22T23:16:51Z,MIT License
+masonry,15865,2174,466,52,HTML,"['HTML', 'JavaScript', 'CSS']",451,2009-11-21T21:04:56Z,
+yoga,15861,1351,395,669,C++,"['C++', 'Java', 'C#', 'JavaScript', 'HTML', 'Objective-C', 'CSS', 'Swift', 'C', 'Python']",2126,2014-04-07T01:37:37Z,MIT License
+ToolsOfTheTrade,15853,1259,490,471,,,643,2014-05-29T04:11:33Z,Other
+howto-make-more-money,15848,1670,2000,16,PHP,"['PHP', 'CSS']",71,2016-03-13T12:22:03Z,
+SpringBoot-Labs,15846,5187,770,29,Java,"['Java', 'HTML', 'Shell', 'Lua']",678,2018-09-12T14:51:46Z,
+Windows10Debloater,15845,1938,377,84,PowerShell,['PowerShell'],338,2017-12-12T01:35:58Z,MIT License
+doomemacs,15839,2888,237,2702,Emacs Lisp,"['Emacs Lisp', 'YASnippet', 'Shell', 'Nix', 'HTML', 'JavaScript', 'Batchfile', 'Go', 'PHP', 'Rust']",18066,2014-07-12T09:29:52Z,MIT License
+trivy,15833,1534,147,1555,Go,"['Go', 'Smarty', 'Shell', 'Open Policy Agent', 'Makefile', 'Mustache', 'Dockerfile']",1837,2019-04-11T01:01:07Z,Apache License 2.0
+darkreader,15828,2053,172,6325,TypeScript,"['TypeScript', 'JavaScript', 'Less', 'HTML']",6420,2014-11-15T14:22:52Z,MIT License
+node-redis,15827,1760,301,784,TypeScript,"['TypeScript', 'JavaScript', 'Dockerfile', 'Shell']",1823,2010-09-14T02:05:09Z,MIT License
+Karabiner-Elements,15818,809,220,77,C++,"['C++', 'Swift', 'Objective-C', 'C', 'Shell', 'Makefile', 'CMake', 'Python', 'AppleScript', 'Ruby']",5720,2016-07-11T04:57:55Z,The Unlicense
+hexo-theme-next,15813,3741,455,418,JavaScript,"['JavaScript', 'Stylus', 'CSS', 'CoffeeScript']",1809,2014-12-01T14:07:07Z,MIT License
+Summer2023-Internships,15808,1684,724,1436,Python,['Python'],3265,2020-05-23T20:53:18Z,
+tinyrenderer,15807,1525,414,10,C++,"['C++', 'CMake', 'Dockerfile']",113,2015-01-17T16:46:01Z,Other
+SwiftGuide,15804,3627,1497,45,Swift,['Swift'],566,2014-06-14T01:17:57Z,
+sismo-protocol,15802,464,174,59,TypeScript,"['TypeScript', 'Solidity', 'Dockerfile', 'Shell']",307,2022-06-16T15:46:44Z,MIT License
+best-resume-ever,15799,2247,323,292,Vue,"['Vue', 'JavaScript', 'HTML']",700,2017-01-30T23:02:00Z,MIT License
+micropython,15795,6093,732,5011,C,"['C', 'Python', 'Makefile', 'C++', 'CMake', 'Shell', 'Assembly', 'JavaScript']",14442,2013-12-20T11:47:07Z,Other
+You-Dont-Need-Lodash-Underscore,15769,767,209,232,JavaScript,['JavaScript'],506,2016-01-26T09:26:42Z,MIT License
+BullshitGenerator,15755,2966,276,53,JavaScript,"['JavaScript', 'HTML', 'Python']",32,2019-10-28T17:05:51Z,Other
+Anime4K,15747,1311,281,30,Jupyter Notebook,"['Jupyter Notebook', 'GLSL', 'Python', 'Batchfile']",417,2019-08-13T22:51:31Z,MIT License
+medium-editor,15731,1884,363,641,JavaScript,"['JavaScript', 'CSS']",2621,2013-05-29T17:40:11Z,Other
+zipline,15725,4527,1007,1866,Python,"['Python', 'Jupyter Notebook', 'Shell', 'Batchfile', 'PowerShell', 'Dockerfile', 'Emacs Lisp']",6226,2012-10-19T15:50:29Z,Apache License 2.0
+vue-vben-admin,15720,4399,205,555,Vue,"['Vue', 'TypeScript', 'Less', 'JavaScript', 'CSS', 'HTML', 'Shell']",1539,2020-07-11T02:29:21Z,MIT License
+Dapper,15720,3589,959,583,C#,"['C#', 'PowerShell', 'Batchfile']",1516,2011-04-14T08:42:59Z,Other
+spellbook-of-modern-webdev,15717,1271,506,32,,,58,2017-06-10T18:03:21Z,
+mustache.js,15714,2441,410,339,JavaScript,"['JavaScript', 'Mustache', 'Ruby', 'HTML', 'TypeScript']",829,2009-10-04T23:41:19Z,MIT License
+realm-swift,15713,2119,385,2983,Objective-C,"['Objective-C', 'Swift', 'C++', 'Shell', 'Python', 'Ruby', 'C', 'Emacs Lisp']",12050,2012-04-16T20:06:56Z,Apache License 2.0
+mkdocs,15713,2161,232,1102,Python,"['Python', 'JavaScript', 'HTML', 'CSS']",1821,2014-01-11T21:05:21Z,"BSD 2-Clause ""Simplified"" License"
+pyspider,15710,3663,904,169,Python,"['Python', 'JavaScript', 'HTML', 'CSS', 'Lua', 'Dockerfile']",1181,2014-02-21T19:18:47Z,Apache License 2.0
+python-spider,15692,5707,628,43,Python,"['Python', 'JavaScript', 'HTML']",338,2017-05-05T07:28:13Z,
+nnn,15685,645,129,651,C,"['C', 'Shell', 'Roff', 'Makefile', 'C++', 'Python', 'Elvish']",4141,2016-08-20T14:10:14Z,"BSD 2-Clause ""Simplified"" License"
+goaccess,15685,1021,289,322,C,"['C', 'JavaScript', 'Roff', 'CSS', 'HTML', 'M4', 'Makefile', 'Dockerfile', 'Shell']",3934,2013-07-14T03:42:08Z,MIT License
+ipython,15663,4401,773,6787,Python,"['Python', 'Jupyter Notebook', 'Shell', 'Makefile', 'Batchfile']",26249,2010-05-10T04:46:06Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+AR.js,15654,2211,558,149,HTML,"['HTML', 'JavaScript', 'Makefile', 'GAP', 'Forth', 'C', 'Brainfuck', 'CSS']",1618,2017-02-17T10:27:59Z,MIT License
+nvidia-docker,15648,2008,439,84,Makefile,"['Makefile', 'Shell']",431,2015-11-04T18:04:49Z,Apache License 2.0
+inferno,15642,678,278,745,JavaScript,"['JavaScript', 'HTML', 'CSS']",6142,2015-02-01T22:07:38Z,MIT License
+AdGuardHome,15636,1355,262,361,Go,"['Go', 'JavaScript', 'TypeScript', 'CSS', 'Shell', 'HTML', 'Makefile', 'Dockerfile', 'Less']",3587,2016-07-06T10:31:47Z,GNU General Public License v3.0
+v,31194,1918,475,9213,V,"['V', 'CSS', 'JavaScript', 'Batchfile', 'HTML', 'Makefile', 'C', 'Objective-C', 'Gnuplot', 'Dockerfile']",14733,2019-02-08T02:57:06Z,MIT License
+shellcheck,31178,1569,415,330,Haskell,"['Haskell', 'Shell', 'Dockerfile']",1885,2012-11-17T03:15:11Z,GNU General Public License v3.0
+gorm,31176,3442,494,1084,Go,"['Go', 'Shell']",2552,2013-10-25T08:31:38Z,MIT License
+metabase,31163,4218,640,15273,Clojure,"['Clojure', 'JavaScript', 'TypeScript', 'CSS', 'Shell', 'Mustache', 'Emacs Lisp', 'Dockerfile', 'HTML']",25952,2015-02-02T19:25:47Z,Other
+android-open-project,31152,12031,3682,287,,,958,2014-01-05T15:20:15Z,Apache License 2.0
+first-contributions,31066,55926,497,62244,,,5063,2016-09-20T14:35:09Z,MIT License
+jQuery-File-Upload,31059,8170,1597,371,PHP,"['PHP', 'JavaScript', 'HTML', 'Python', 'CSS', 'Dockerfile']",1265,2010-12-01T15:35:32Z,MIT License
+cli,31057,4596,776,2115,Go,"['Go', 'Shell', 'Makefile', 'PowerShell', 'Batchfile']",6287,2019-10-03T15:24:53Z,MIT License
+ijkplayer,31042,7923,1212,225,C,"['C', 'Objective-C', 'Java', 'Shell', 'Makefile', 'C++', 'Ruby']",2627,2013-06-03T04:12:04Z,GNU General Public License v2.0
+AppFlowy,31013,1761,285,984,Dart,"['Dart', 'Rust', 'C++', 'CMake', 'Swift', 'Ruby', 'HTML', 'C', 'Shell', 'Java']",3766,2021-06-16T12:56:48Z,GNU Affero General Public License v3.0
+black,30944,1983,227,1315,Python,"['Python', 'Vim Script', 'Jupyter Notebook', 'Dockerfile']",1500,2018-03-14T19:54:45Z,MIT License
+12306,30924,9436,839,145,Python,"['Python', 'Shell', 'Dockerfile']",435,2017-05-17T12:23:40Z,MIT License
+ShadowsocksX-NG,30923,7962,950,115,Swift,"['Swift', 'Objective-C', 'Shell', 'Python', 'Rich Text Format', 'Makefile', 'Ruby', 'C']",592,2016-06-10T11:49:00Z,GNU General Public License v3.0
+zju-icicles,30853,8584,1087,215,HTML,"['HTML', 'C', 'CSS', 'C++', 'Verilog', 'Assembly', 'Java', 'Python', 'Scala', 'TeX']",1408,2016-06-28T16:17:32Z,
+chakra-ui,30800,2756,204,2781,TypeScript,"['TypeScript', 'JavaScript', 'Handlebars', 'HTML', 'Shell']",8760,2019-08-17T14:27:54Z,MIT License
+date-fns,30756,1588,208,1519,TypeScript,"['TypeScript', 'JavaScript', 'Shell']",1930,2014-10-06T10:24:22Z,MIT License
+aspnetcore,30683,8693,1448,14599,C#,"['C#', 'JavaScript', 'HTML', 'C++', 'TypeScript', 'Java', 'PowerShell', 'Shell', 'C', 'CSS']",50895,2014-03-11T06:09:42Z,MIT License
+devdocs,30620,2069,630,825,Ruby,"['Ruby', 'CoffeeScript', 'SCSS', 'HTML', 'CSS', 'JavaScript', 'Dockerfile', 'Procfile']",4920,2013-10-24T18:16:07Z,Mozilla Public License 2.0
+zxing,30592,9270,1692,344,Java,"['Java', 'HTML', 'CSS']",3683,2011-10-12T14:07:27Z,Apache License 2.0
+netty,30567,15065,1776,6971,Java,"['Java', 'C', 'HTML', 'Shell', 'JavaScript', 'Makefile', 'Groovy', 'CSS']",11029,2010-11-09T09:22:21Z,Apache License 2.0
+cobra,30395,2596,363,895,Go,"['Go', 'Makefile']",978,2013-09-03T20:40:26Z,Apache License 2.0
+vim-plug,30293,1875,381,249,Vim Script,"['Vim Script', 'Shell']",692,2013-09-10T14:58:51Z,MIT License
+pyenv,30291,2685,383,916,Roff,"['Roff', 'Shell', 'Python', 'Makefile', 'C', 'Dockerfile', 'Vim Script']",3022,2012-08-31T06:57:52Z,MIT License
+typeorm,30205,5627,356,2487,TypeScript,"['TypeScript', 'JavaScript', 'Shell', 'Dockerfile']",5162,2016-02-29T07:41:14Z,MIT License
+acme.sh,30060,4148,491,1841,Shell,"['Shell', 'Dockerfile']",5042,2015-12-26T12:56:33Z,GNU General Public License v3.0
+dbeaver,30052,2723,496,3692,Java,"['Java', 'C++', 'CSS', 'HTML', 'XSLT', 'Batchfile', 'Shell']",23769,2015-10-21T08:26:28Z,Apache License 2.0
+wtfjs,29880,2213,538,177,JavaScript,"['JavaScript', 'Shell']",441,2017-07-14T15:42:12Z,Do What The F*ck You Want To Public License
+mitmproxy,29860,3586,617,2497,Python,"['Python', 'TypeScript', 'JavaScript', 'Less', 'HTML', 'Kaitai Struct', 'CSS', 'Shell', 'Dockerfile', 'PowerShell']",10248,2010-02-16T04:10:13Z,MIT License
+jieba,29857,6621,1293,164,Python,"['Python', 'OpenEdge ABL']",523,2012-09-29T07:52:01Z,MIT License
+awesome-javascript,29818,4166,1102,749,,,797,2014-07-01T15:59:02Z,
+awesome-awesomeness,29765,3510,1704,401,Ruby,['Ruby'],576,2014-07-08T05:44:19Z,
+gym,29759,8166,1005,1433,Python,"['Python', 'Dockerfile', 'Shell']",1755,2016-04-27T14:59:16Z,Other
+certbot,29584,3312,765,4401,Python,"['Python', 'Shell', 'Batchfile', 'Makefile', 'NSIS', 'Augeas', 'Dockerfile', 'PowerShell', 'DIGITAL Command Language', 'Smarty']",10651,2014-11-12T02:52:20Z,Other
+type-challenges,29554,2969,122,552,TypeScript,"['TypeScript', 'HTML', 'CSS', 'Shell']",797,2020-07-23T14:33:11Z,MIT License
+vue-cli,29547,6396,653,1795,JavaScript,"['JavaScript', 'Vue', 'TypeScript', 'Stylus', 'HTML', 'Shell', 'AppleScript']",3531,2015-12-26T23:11:20Z,MIT License
+HEAD,29518,1964,719,147,,,367,2016-04-20T20:05:37Z,
+vim,29404,4567,680,4880,Vim Script,"['Vim Script', 'C', 'Roff', 'Makefile', 'C++', 'M4', 'NSIS', 'PostScript', 'Perl', 'Module Management System']",17530,2015-08-18T21:03:56Z,Vim License
+carbon-lang,29392,1238,412,1817,C++,"['C++', 'Python', 'Starlark', 'JavaScript', 'Shell', 'Vim Script', 'Dockerfile', 'HTML', 'Yacc', 'C']",1485,2020-04-27T21:45:16Z,Other
+foundation-sites,29383,5621,1287,4090,HTML,"['HTML', 'SCSS', 'JavaScript']",17241,2011-10-13T23:05:42Z,MIT License
+tesseract.js,29320,1969,485,162,JavaScript,"['JavaScript', 'HTML']",681,2015-06-24T02:49:52Z,Apache License 2.0
+beego,29318,5548,1206,1880,Go,"['Go', 'Makefile', 'Shell', 'Smarty']",4660,2012-02-29T02:32:08Z,Other
+COVID-19,29271,18757,884,2660,,,7410,2020-02-04T22:03:53Z,
+metasploit-framework,29218,12819,2019,11790,Ruby,"['Ruby', 'PowerShell', 'C', 'Python', 'HTML', 'JavaScript', 'Assembly', 'Rich Text Format', 'Go', 'Shell']",68973,2011-08-30T06:13:20Z,Other
+stable-diffusion-webui,29166,5475,284,1316,Python,"['Python', 'JavaScript', 'HTML', 'CSS', 'Shell', 'Batchfile']",3329,2022-08-22T14:05:26Z,GNU Affero General Public License v3.0
+phantomjs,29128,5843,1137,1137,C++,"['C++', 'JavaScript', 'C', 'Python', 'HTML', 'Shell', 'CMake', 'CSS']",1958,2010-12-27T08:18:58Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+es6features,29089,2920,1229,76,,,109,2014-03-03T18:29:30Z,MIT License
+graphql-engine,29084,2575,342,3279,TypeScript,"['TypeScript', 'Haskell', 'JavaScript', 'Go', 'Python', 'CSS', 'SCSS', 'Shell', 'HTML', 'PLpgSQL']",6082,2018-06-18T07:57:36Z,Apache License 2.0
+react-beautiful-dnd,29053,2314,247,945,JavaScript,"['JavaScript', 'HTML']",802,2017-08-09T03:37:15Z,Other
+react-boilerplate,28964,6158,541,1189,JavaScript,"['JavaScript', 'HTML']",1457,2015-02-18T14:36:32Z,MIT License
+marked,28960,3287,391,1346,JavaScript,"['JavaScript', 'HTML', 'Makefile']",2934,2011-07-24T13:15:51Z,Other
+LeetCode-Go,28945,5242,635,193,Go,"['Go', 'HTML', 'SCSS', 'CSS', 'JavaScript', 'Python', 'Shell']",1475,2017-07-18T00:06:14Z,MIT License
+aria2,28865,3186,727,309,C++,"['C++', 'C', 'Makefile', 'M4', 'Shell']",5321,2010-11-27T09:41:48Z,GNU General Public License v2.0
+googletest,28852,9042,1188,1851,C++,"['C++', 'Python', 'CMake', 'C', 'Starlark', 'Shell', 'Batchfile']",4086,2015-07-28T15:07:53Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+weekly,28848,2117,1862,82,,,483,2018-10-13T12:36:07Z,
+airflow,28842,11814,761,19697,Python,"['Python', 'TypeScript', 'Shell', 'HTML', 'JavaScript', 'Dockerfile', 'Jinja', 'CSS', 'Jupyter Notebook', 'HCL']",18663,2015-04-13T18:04:58Z,Apache License 2.0
+Blog,28821,4606,1265,8,,,321,2017-03-13T10:04:33Z,
+framework,28735,9798,1006,26284,PHP,"['PHP', 'Blade', 'Shell', 'CSS', 'Hack']",34931,2013-01-10T21:27:28Z,MIT License
+p3c,28708,7866,1330,129,Kotlin,"['Kotlin', 'Java', 'FreeMarker', 'CSS']",290,2017-06-23T06:15:51Z,Apache License 2.0
+dotfiles,28662,8818,710,602,Shell,"['Shell', 'Vim Script', 'GDB']",761,2011-09-05T18:07:54Z,MIT License
+appwrite,28646,2378,340,2438,TypeScript,"['TypeScript', 'PHP', 'Dockerfile', 'Shell']",14262,2019-04-08T16:36:25Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+husky,28570,1007,152,339,JavaScript,"['JavaScript', 'Shell']",854,2014-06-23T12:14:21Z,MIT License
+spring-boot-demo,28513,9902,1000,76,Java,"['Java', 'HTML', 'TSQL', 'PLpgSQL', 'Lua', 'FreeMarker', 'Dockerfile']",734,2017-11-10T06:27:29Z,MIT License
+prisma,28508,1024,231,4768,TypeScript,"['TypeScript', 'JavaScript', 'Shell', 'Dockerfile', 'Smarty', 'TSQL', 'Batchfile']",8897,2019-06-20T13:33:47Z,Apache License 2.0
+fanqiang,28465,6007,1164,9,Kotlin,"['Kotlin', 'JavaScript', 'Shell', 'Python', 'Java', 'HTML', 'AIDL', 'Batchfile', 'Perl']",1172,2015-01-14T00:34:25Z,
+project-guidelines,28427,3246,634,130,JavaScript,['JavaScript'],169,2017-06-30T10:17:55Z,MIT License
+spring-boot-examples,28406,12155,1331,47,Java,"['Java', 'HTML', 'Dockerfile', 'CSS']",213,2016-11-05T05:32:33Z,
+vimrc,28370,7117,784,229,Vim Script,"['Vim Script', 'Vim Snippet', 'Ruby', 'Shell', 'Python', 'PowerShell', 'CoffeeScript', 'VBScript', 'Makefile', 'CMake']",470,2012-05-29T16:19:29Z,MIT License
+compose,28332,4703,708,3445,Go,"['Go', 'Dockerfile', 'Makefile', 'Gherkin', 'HCL', 'Shell', 'HTML']",3847,2013-12-09T11:40:58Z,Apache License 2.0
+Docker-OSX,28327,1388,345,112,Shell,"['Shell', 'Dockerfile', 'Python', 'Mustache']",454,2020-06-04T11:01:37Z,GNU General Public License v3.0
+uptime-kuma,28324,2371,182,825,JavaScript,"['JavaScript', 'Vue', 'SCSS', 'TypeScript', 'Shell', 'Dockerfile', 'Go', 'HTML', 'PowerShell']",3558,2021-07-03T01:02:42Z,MIT License
+rxjs,28294,2909,455,3752,TypeScript,"['TypeScript', 'JavaScript', 'SCSS', 'HTML', 'Shell', 'Dockerfile']",5183,2015-03-15T06:17:10Z,Apache License 2.0
+libpku,28256,8152,1228,34,TeX,"['TeX', 'JavaScript']",132,2018-11-22T13:33:06Z,
+curl,28236,5540,751,6290,C,"['C', 'Perl', 'M4', 'DIGITAL Command Language', 'CMake', 'Makefile', 'Python', 'Shell', 'Batchfile', 'Roff']",29698,2010-03-18T22:32:22Z,Other
+leakcanary,28161,3922,997,976,Kotlin,"['Kotlin', 'Java', 'Shell']",2002,2015-04-29T23:54:16Z,Apache License 2.0
+programmer-job-blacklist,28111,1866,1243,42,Shell,['Shell'],147,2016-06-25T06:09:10Z,MIT License
+todomvc,28077,13903,1151,1305,JavaScript,"['JavaScript', 'HTML', 'CSS', 'Shell']",2905,2011-06-03T19:56:33Z,Other
+500lines,28049,5930,1827,230,JavaScript,"['JavaScript', 'Python', 'Haskell', 'Ruby', 'Clojure', 'Erlang', 'Jupyter Notebook', 'TeX', 'Java', 'Common Lisp']",3297,2013-11-04T02:02:53Z,Other
+awesome-php,28037,5017,1785,1055,,,1567,2013-11-26T03:14:19Z,Do What The F*ck You Want To Public License
+android_guides,28023,6474,2132,23,,,62,2013-06-19T10:24:45Z,MIT License
+lottie-web,27995,2788,451,203,JavaScript,"['JavaScript', 'HTML']",2315,2015-02-20T21:02:59Z,MIT License
+backbone,27975,5564,1311,1849,JavaScript,"['JavaScript', 'HTML', 'CoffeeScript']",3454,2010-09-30T19:41:28Z,MIT License
+vuex,27939,9559,781,952,JavaScript,"['JavaScript', 'TypeScript']",1208,2015-07-16T04:21:26Z,MIT License
+Hover,27909,5780,870,65,SCSS,"['SCSS', 'Less', 'HTML', 'CSS', 'JavaScript']",132,2014-01-02T14:27:35Z,Other
+symfony,27899,8944,1142,29341,PHP,"['PHP', 'Twig', 'CSS', 'JavaScript', 'HTML', 'Shell', 'Makefile', 'Hack']",63271,2010-01-04T14:21:21Z,MIT License
+standard,27858,2369,474,648,JavaScript,"['JavaScript', 'Shell']",1947,2015-01-27T01:23:31Z,MIT License
+HanLP,27855,7741,1146,123,Python,"['Python', 'Java']",1723,2014-10-09T06:36:16Z,Apache License 2.0
+slick,27815,5949,564,684,JavaScript,"['JavaScript', 'HTML', 'SCSS', 'Less', 'CSS', 'Ruby', 'Makefile']",923,2014-03-24T02:10:05Z,MIT License
+async,27791,2453,676,772,JavaScript,"['JavaScript', 'CSS', 'Shell', 'Makefile']",1883,2010-06-01T21:01:30Z,MIT License
+odoo,27778,17720,1510,93012,JavaScript,"['JavaScript', 'Python', 'SCSS', 'CSS', 'HTML', 'Shell', 'NSIS', 'Sass', 'XSLT', 'Makefile']",157260,2014-05-13T15:38:58Z,Other
+n8n,27767,3259,277,4288,TypeScript,"['TypeScript', 'Vue', 'SCSS', 'JavaScript', 'HTML', 'Dockerfile', 'Shell', 'Batchfile']",7741,2019-06-22T09:24:21Z,Other
+PaddleOCR,27758,5718,402,2457,Python,"['Python', 'C++', 'Shell', 'Java', 'Cuda', 'CMake', 'Makefile', 'JavaScript', 'C', 'Dockerfile']",5974,2020-05-08T10:38:16Z,Apache License 2.0
+linux-insides,27706,3142,1340,643,Python,"['Python', 'Makefile', 'Shell', 'Dockerfile']",1909,2015-01-03T18:44:57Z,Other
+diagrams,27675,1690,345,418,Python,"['Python', 'JavaScript', 'Shell', 'Dockerfile', 'CSS']",511,2020-02-02T15:23:24Z,MIT License
+apollo,27668,10051,1286,1545,Java,"['Java', 'HTML', 'JavaScript', 'Shell', 'CSS', 'Dockerfile', 'Batchfile']",2783,2016-03-04T10:24:23Z,Apache License 2.0
+pandoc,27616,3045,510,1813,Haskell,"['Haskell', 'Rich Text Format', 'Lua', 'HTML', 'Roff', 'Jupyter Notebook', 'Makefile', 'Shell', 'TeX', 'CSS']",16272,2010-03-20T20:34:23Z,Other
+tmux,27465,1843,429,512,C,"['C', 'Roff', 'Shell', 'Yacc', 'M4', 'Awk', 'Makefile', 'Perl']",9989,2015-06-03T23:32:55Z,Other
+html2canvas,27432,4553,513,467,TypeScript,"['TypeScript', 'HTML', 'JavaScript', 'CSS']",1066,2011-07-16T01:05:58Z,MIT License
+webtorrent,27421,2656,704,822,JavaScript,"['JavaScript', 'Shell']",3207,2013-10-15T08:16:40Z,MIT License
+Awesome-Design-Tools,27384,1956,543,381,JavaScript,['JavaScript'],1649,2019-02-12T13:55:30Z,MIT License
+REKCARC-TSC-UHT,27383,7044,862,126,HTML,"['HTML', 'C', 'C++', 'Verilog', 'Jupyter Notebook', 'Assembly', 'Java', 'Python', 'CSS', 'MATLAB']",173,2019-04-05T03:31:23Z,Creative Commons Attribution Share Alike 4.0 International
+sequelize,27334,4141,422,5304,JavaScript,"['JavaScript', 'TypeScript', 'Shell']",9818,2010-07-22T07:11:11Z,MIT License
+swift-algorithm-club,27308,4883,1575,795,Swift,"['Swift', 'Shell', 'Objective-C', 'C']",2534,2016-01-26T17:56:12Z,MIT License
+composer,27285,6510,597,3689,PHP,['PHP'],12032,2011-06-08T08:53:00Z,MIT License
+interview,27203,7069,860,46,C++,"['C++', 'C', 'CMake']",367,2018-02-09T09:49:48Z,Other
+legacy-homebrew,27176,11706,935,33606,,,63882,2009-05-20T19:38:37Z,
+postcss,27122,1558,526,863,TypeScript,"['TypeScript', 'JavaScript']",3841,2013-09-24T23:06:48Z,MIT License
+hackingtool,27076,3165,1006,69,Python,"['Python', 'Shell', 'Dockerfile']",218,2020-04-11T09:21:31Z,MIT License
+free,27039,5221,766,12,,,5855,2020-06-07T02:48:33Z,
+Python,27011,11346,2468,1499,Python,"['Python', 'Jupyter Notebook', 'Tcl', 'Java']",3069,2011-11-30T09:04:08Z,MIT License
+ccxt,26969,6592,933,8398,JavaScript,"['JavaScript', 'PHP', 'Python', 'Shell', 'Dockerfile', 'HTML']",68305,2017-05-14T15:41:56Z,MIT License
+awesome-macos-command-line,26945,1512,755,181,,,1,2015-09-22T19:37:55Z,
+JCSprout,26915,7147,1669,114,Java,['Java'],709,2017-12-17T09:06:50Z,MIT License
+google-research,26870,6667,711,425,Jupyter Notebook,"['Jupyter Notebook', 'Python', 'C++', 'JavaScript', 'Shell', 'Java', 'Starlark', 'MATLAB', 'R', 'Lua']",3784,2018-10-04T18:42:48Z,Apache License 2.0
+CPlusPlusThings,26834,6616,489,75,C++,"['C++', 'CMake', 'C']",276,2019-07-14T08:45:45Z,
+vault,26830,3666,825,13400,Go,"['Go', 'JavaScript', 'Handlebars', 'HCL', 'SCSS', 'Shell', 'TypeScript', 'Makefile', 'Dockerfile', 'Batchfile']",16516,2015-02-25T00:15:59Z,Mozilla Public License 2.0
+ClickHouse,26821,5394,694,30879,C++,"['C++', 'Assembly', 'Python', 'Shell', 'CMake', 'Go', 'C', 'Jinja', 'HTML', 'Clojure']",105860,2016-06-02T08:28:18Z,Apache License 2.0
+Coursera-ML-AndrewNg-Notes,26819,9979,1001,29,HTML,"['HTML', 'Jupyter Notebook']",117,2017-11-04T10:04:08Z,
+interactive-coding-challenges,26779,4294,973,237,Python,"['Python', 'C++']",790,2015-04-28T21:36:39Z,Other
+reactjs-interview-questions,26774,6595,592,150,JavaScript,"['JavaScript', 'HTML', 'CSS']",386,2018-05-31T17:17:01Z,
+layui,26774,7107,971,361,JavaScript,"['JavaScript', 'CSS']",824,2015-09-22T08:12:03Z,MIT License
+underscore,26748,5601,852,1550,JavaScript,"['JavaScript', 'HTML']",2830,2009-10-25T18:31:06Z,MIT License
+particles.js,26748,4696,562,108,JavaScript,['JavaScript'],235,2014-09-06T14:29:47Z,MIT License
+algo,26739,2211,467,671,Jinja,"['Jinja', 'Python', 'Shell', 'Dockerfile', 'Makefile']",1122,2016-05-15T03:42:48Z,GNU Affero General Public License v3.0
+NeteaseCloudMusicApi,26721,12077,347,399,JavaScript,"['JavaScript', 'HTML', 'Dockerfile', 'TypeScript', 'Shell']",1291,2016-06-22T11:58:03Z,MIT License
+Faker,26668,3465,562,1504,PHP,"['PHP', 'Makefile']",2632,2011-10-14T22:49:02Z,MIT License
+weui,26661,6505,1537,268,HTML,"['HTML', 'Less', 'JavaScript']",695,2014-12-18T04:09:54Z,Other
+hangzhou_house_knowledge,26575,5434,1394,13,CSS,"['CSS', 'HTML']",73,2018-02-24T01:54:18Z,
+calculator,26556,4819,587,1024,C++,"['C++', 'C#', 'C', 'PowerShell', 'Shell']",784,2019-01-28T17:55:49Z,MIT License
+Daily-Interview-Question,26526,3308,1054,23,JavaScript,['JavaScript'],252,2019-01-19T10:49:00Z,
+learnGitBranching,26520,5465,534,584,JavaScript,"['JavaScript', 'CSS', 'HTML', 'Makefile', 'Dockerfile', 'Shell']",2747,2012-08-13T22:36:09Z,MIT License
+machine-learning-for-software-engineers,26451,6100,1529,83,,,298,2016-10-09T21:20:25Z,Creative Commons Attribution Share Alike 4.0 International
+cockroach,26448,3344,718,47255,Go,"['Go', 'TypeScript', 'Starlark', 'Yacc', 'Shell', 'Tcl', 'Stylus', 'C', 'SCSS', 'Makefile']",76912,2014-02-06T00:18:47Z,Other
+druid,26418,8303,1748,1277,Java,"['Java', 'HTML', 'CSS', 'TSQL', 'JavaScript', 'PLSQL', 'SCSS', 'Batchfile', 'Shell', 'Dockerfile']",6735,2011-11-03T05:12:51Z,Apache License 2.0
+drone,26358,2574,550,1415,Go,"['Go', 'Shell']",4048,2014-02-07T07:54:44Z,Other
+Charts,26349,5696,606,877,Swift,"['Swift', 'Objective-C', 'Ruby', 'Shell', 'C']",1787,2015-03-20T10:49:12Z,Apache License 2.0
+easyexcel,26331,6882,590,320,Java,['Java'],944,2018-02-06T03:14:08Z,Apache License 2.0
+uppy,26319,1786,338,2327,JavaScript,"['JavaScript', 'SCSS', 'TypeScript', 'EJS', 'HTML', 'Shell', 'Svelte', 'Makefile', 'CSS', 'Dockerfile']",9154,2015-11-16T12:32:33Z,MIT License
+slate,26261,3013,301,2186,TypeScript,"['TypeScript', 'JavaScript', 'CSS']",3952,2016-06-18T01:52:42Z,MIT License
+awesome-shell,26257,2215,769,422,,,650,2014-07-07T01:57:42Z,Creative Commons Zero v1.0 Universal
+zustand,26225,797,126,510,TypeScript,"['TypeScript', 'JavaScript']",825,2019-04-09T09:10:06Z,MIT License
+fastify,26202,1931,294,2658,JavaScript,"['JavaScript', 'TypeScript', 'Shell']",3546,2016-09-28T19:10:14Z,Other
+Sortable,26184,3569,412,488,JavaScript,"['JavaScript', 'HTML', 'CSS']",1078,2013-12-19T10:10:13Z,MIT License
+insomnia,26161,1399,225,2302,JavaScript,"['JavaScript', 'TypeScript', 'Less', 'CSS', 'Shell', 'HTML', 'Dockerfile', 'Nix']",3926,2016-04-23T03:54:26Z,MIT License
+gitflow,26088,2686,599,217,Shell,['Shell'],401,2010-01-20T23:14:12Z,Other
+mobx,26061,1729,365,1197,TypeScript,"['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Shell']",3179,2015-03-14T14:31:38Z,MIT License
+fd,26029,666,152,515,Rust,"['Rust', 'Shell', 'Makefile']",1209,2017-05-09T21:27:10Z,Apache License 2.0
+Files,26007,1663,363,3741,C#,"['C#', 'C++', 'C']",4059,2019-01-04T18:19:14Z,MIT License
+yew,25995,1248,309,1748,Rust,"['Rust', 'JavaScript', 'Shell', 'Python', 'TypeScript', 'SCSS', 'CSS', 'HTML']",2372,2017-12-16T14:19:02Z,Apache License 2.0
+httpie,25959,3738,73,568,Python,"['Python', 'Roff', 'Shell', 'Makefile', 'Dockerfile']",1743,2012-02-25T12:39:13Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+consul,25918,4218,964,10891,Go,"['Go', 'SCSS', 'JavaScript', 'Handlebars', 'Shell', 'Gherkin', 'HCL', 'Makefile', 'Dockerfile', 'HTML']",19453,2013-11-04T22:15:27Z,Mozilla Public License 2.0
+lighthouse,25915,9123,588,5311,JavaScript,"['JavaScript', 'TypeScript', 'HTML', 'Shell', 'CSS', 'Handlebars', 'Python']",5513,2016-03-08T01:03:11Z,Apache License 2.0
+angular-cli,25903,12109,1026,10172,TypeScript,"['TypeScript', 'Starlark', 'JavaScript', 'HTML', 'EJS', 'Shell', 'PowerShell', 'jq', 'CSS', 'SCSS']",10105,2015-06-04T19:49:37Z,MIT License
+GFPGAN,25897,3959,385,37,Python,['Python'],106,2021-03-19T06:18:20Z,Other
+rethinkdb,25885,1880,789,683,C++,"['C++', 'Python', 'JavaScript', 'C', 'Ruby', 'Makefile', 'Shell', 'HTML', 'Haskell', 'XSLT']",33515,2012-10-30T05:37:47Z,Other
+cheerio,25857,1576,367,1832,TypeScript,"['TypeScript', 'HTML']",2344,2011-10-09T04:23:20Z,MIT License
+sqlmap,25851,5103,1087,335,Python,"['Python', 'C', 'Shell', 'HTML', 'Perl', 'C++', 'PLpgSQL', 'TSQL']",10014,2012-06-26T09:52:15Z,Other
+jsPDF,25846,4426,474,1229,JavaScript,"['JavaScript', 'TypeScript', 'HTML']",2266,2009-12-06T14:56:32Z,MIT License
+python-guide,25812,5844,1406,844,Batchfile,"['Batchfile', 'Makefile']",2318,2011-03-15T03:24:20Z,Other
+MockingBird,25809,3817,242,79,Python,"['Python', 'JavaScript', 'HTML', 'Shell', 'Dockerfile']",164,2021-08-07T03:53:39Z,Other
+English-level-up-tips,25795,3184,900,29,,,249,2017-05-30T07:18:52Z,
+openpose,25764,7416,918,239,C++,"['C++', 'Cuda', 'CMake', 'Shell', 'HCL', 'Batchfile', 'Python']",705,2017-04-24T14:06:31Z,Other
+minikube,25741,4420,491,7411,Go,"['Go', 'HTML', 'Shell', 'Makefile', 'JavaScript', 'Dockerfile', 'PowerShell', 'NSIS', 'SCSS', 'NASL']",20622,2016-04-15T22:38:35Z,Apache License 2.0
+ResumeSample,25740,9048,1033,10,,,26,2014-09-08T08:08:13Z,
+halo,25702,8253,476,1087,Java,"['Java', 'Shell', 'Vue', 'Dockerfile']",2418,2018-03-21T12:56:52Z,GNU General Public License v3.0
+react-select,25683,3990,230,1686,TypeScript,"['TypeScript', 'JavaScript', 'CSS']",4214,2014-08-26T04:27:45Z,MIT License
+miaosha,25678,6638,804,69,Java,"['Java', 'FreeMarker', 'HTML', 'PHP', 'Lua']",248,2018-09-14T04:36:24Z,
+butterknife,25670,4691,1056,490,Java,"['Java', 'HTML', 'Kotlin', 'CSS', 'Shell']",1016,2013-03-05T08:18:59Z,Apache License 2.0
+OpenAPI-Specification,25646,8797,855,1011,JavaScript,"['JavaScript', 'Shell', 'CSS', 'HTML']",1950,2014-03-03T16:53:36Z,Apache License 2.0
+swc,25644,876,142,3958,Rust,"['Rust', 'JavaScript', 'TypeScript', 'Shell', 'Python', 'SCSS']",6604,2017-12-22T11:40:14Z,Apache License 2.0
+awesome-python-cn,25643,7642,2090,82,Makefile,['Makefile'],213,2015-11-03T09:50:50Z,Other
+codemirror5,25622,4974,650,2862,JavaScript,"['JavaScript', 'HTML', 'CSS', 'Shell']",7134,2011-01-14T13:44:03Z,MIT License
+selenium,25612,7352,1314,2769,Java,"['Java', 'C#', 'JavaScript', 'C++', 'HTML', 'Ruby', 'Python', 'Starlark', 'TypeScript', 'C']",29303,2013-01-14T21:40:56Z,Apache License 2.0
+awesome-design-patterns,25611,2103,636,41,,,102,2018-06-04T17:47:48Z,
+request,25596,3212,442,1170,JavaScript,"['JavaScript', 'Shell']",2270,2011-01-23T01:25:14Z,Apache License 2.0
